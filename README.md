@@ -1,17 +1,26 @@
 # BrightTV-Viewership-Analytics-
 
-**Introduction**
+## 📺 Case Study: BrightTV Viewership Analytics
 
-BrightTV is a subscription-based digital entertainment platform aiming to expand its subscriber base in the current financial year. To achieve this, the CEO has tasked the Customer Value Management (CVM) team with leveraging data-driven insights to understand user behaviour and improve engagement.
+### Introduction
+BrightTV is a subscription-based entertainment platform with a strategic goal to expand its subscriber base during the current financial year. The CEO has tasked the Customer Value Management (CVM) team with uncovering actionable insights from user profile and viewership transaction data. These insights will inform content strategy, user engagement initiatives, and growth opportunities.
 
-The dataset provided contains detailed user profile information and session-level viewer transactions. Each record represents a viewing session, with timestamps recorded in Coordinated Universal Time (UTC), which need to be converted to South Africa Standard Time (SAST). By analysing this data, we can uncover patterns in user demographics, content consumption, and viewing trends. These insights will be crucial for developing strategies to increase daily engagement, address periods of low consumption, and design initiatives to attract and retain subscribers.
+### Objectives
+This case study aims to address the following:
 
-**Objectives**
+- Analyze user and usage trends to understand viewing behavior.
+- Identify key factors influencing content consumption.
+- Recommend content strategies to boost engagement on low-consumption days.
+- Propose initiatives to grow BrightTV’s user base through data-driven actions.
 
-The main goal of this project is to provide actionable insights that will support BrightTV’s strategic objective of growing its subscription base. The specific objectives are:
+### Recommendations
 
-- Analyse user and usage trends to identify how subscribers interact with BrightTV across different times, devices, and content types.
-- Identify factors influencing content consumption, such as demographics, time of day, content genre, or device type.
-- Recommend content strategies to increase viewership on days or periods with low consumption.
-- Propose initiatives for subscription growth, focusing on both customer acquisition and retention.
-- Support decision-making for the CVM team by translating raw data into clear, actionable insights that align with BrightTV’s financial-year goals.
+To boost engagement on quieter days like Monday and Wednesday:
+
+ - Catch-Up Capsules: Recap top content from the weekend.
+ - Interactive Polls & Quizzes: Gamified formats to spark participation.
+ - Behind-the-Scenes or Creator Spotlights: Build emotional connection and loyalty.
+ - Countdowns or Teasers: Create anticipation for upcoming drops.
+ - Localized Content: Feature region-specific stories or shoutouts (especially for Gauteng, Western Cape, and KZN).
+
+

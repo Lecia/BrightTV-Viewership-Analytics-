@@ -3,7 +3,7 @@
 ### Introduction
 BrightTV is a subscription-based entertainment platform with a strategic goal to expand its subscriber base during the current financial year. The CEO has tasked the Customer Value Management (CVM) team with uncovering actionable insights from user profile and viewership transaction data. These insights will inform content strategy, user engagement initiatives, and growth opportunities.
 
-### Objectives
+## Objectives
 This case study aims to address the following:
 
 - Analyze user and usage trends to understand viewing behavior.
@@ -20,7 +20,7 @@ The following tools were used to analyze and visualize data:
  - Google Looker Studio & PowerPoint – for creating dashboards and presenting insights effectively.
  - MIRO & CANVA - for project planning and Gantt Chart
 
-### Recommendations
+## Recommendations
 
 To boost engagement on quieter days like Monday and Wednesday:
 

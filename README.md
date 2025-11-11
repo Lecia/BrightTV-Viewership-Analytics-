@@ -44,15 +44,15 @@ BrightTV-Case-Study/
 │
 ├── 1.Project Description & Raw Data/
 │   ├── BrightTV_Case_Study.pdf
-│   └── BrightTV_Raw_Data.csv
+│   └── Raw_Data.csv
 │
 ├── 2.Project Planning/
-│   ├── Miro_Flowchart.png
+│   ├── Planning.pdf
 │   └── Gantt_Chart.png
 │
 ├── 3.Data Processing/
 │   ├── SQLCode.sql
-│   └── BrightTV_Excel_Analysis.xlsx
+│   └── Excel_Analysis.xlsx
 │
 └── 4.Project Presentation/
     ├── Presentation.pdf

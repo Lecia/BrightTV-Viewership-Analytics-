@@ -11,6 +11,15 @@ This case study aims to address the following:
 - Recommend content strategies to boost engagement on low-consumption days.
 - Propose initiatives to grow BrightTV’s user base through data-driven actions.
 
+## Tools Used
+The following tools were used to analyze and visualize data:
+
+ - SQL – for querying, transforming, and analyzing viewership and user data.
+ - Snowflake – as the cloud data warehouse for managing and storing datasets.
+ - Excel – for data cleaning, exploration, and pivot analysis.
+ - Google Looker Studio & PowerPoint – for creating dashboards and presenting insights effectively.
+ - MIRO & CANVA - for project planning and Gantt Chart
+
 ### Recommendations
 
 To boost engagement on quieter days like Monday and Wednesday:

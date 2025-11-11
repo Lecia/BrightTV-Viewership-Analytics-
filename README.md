@@ -1,6 +1,6 @@
-# BrightTV-Viewership-Analytics-
+# BrightTV-Viewership-Analytics
 
-## 📺 Case Study: BrightTV Viewership Analytics
+## Case Study: BrightTV Viewership Analytics
 
 ### Introduction
 BrightTV is a subscription-based entertainment platform with a strategic goal to expand its subscriber base during the current financial year. The CEO has tasked the Customer Value Management (CVM) team with uncovering actionable insights from user profile and viewership transaction data. These insights will inform content strategy, user engagement initiatives, and growth opportunities.

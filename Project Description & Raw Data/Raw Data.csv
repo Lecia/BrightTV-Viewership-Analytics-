@@ -1,0 +1,1001 @@
+UserID,Name,Surname,Email,Gender,Race,Age,AgeGroup,Province,Socials,Channel2,RecordDate2,TimeBucket,Duration
+97,Lucas,Woolard,Lucas233@mail.com,male,coloured,48,Adults,Free State,@Lucas23,SuperSport Blitz,2016-02-04 04:40:00.000000,Morning,192
+132,Carter,Wigfall,Carter33@mail.com,male,black,45,Adults,Gauteng,@Carter3,Boomerang,2016-01-11 20:55:00.000000,Evening,711
+212,Kyle,Martello,Kyle63@mail.com,male,black,41,Adults,Gauteng,@Kyle6,CNN,2016-01-06 09:48:00.000000,Morning,361
+249,Markus,Wigfall,Markus192@gmail.com,male,black,40,Adults,Gauteng,@Markus19,ICC Cricket World Cup 2011,2016-03-15 15:33:00.000000,Afternoon,560
+649,Bret,Gettys,Bret313@mail.com,male,black,31,Young Adults,Mpumalanga,@Bret31,Channel O,2016-01-11 06:59:00.000000,Morning,300
+850,Romeo,Crotty,Romeo373@mail.com,male,coloured,28,Young Adults,Western Cape,@Romeo37,E! Entertainment,2016-03-06 00:08:00.000000,Morning,440
+991,Lane,Paradis,Lane111@yahoo.com,male,black,26,Young Adults,Gauteng,@Lane11,Cartoon Network,2016-01-20 13:43:00.000000,Afternoon,9
+1373,Raymundo,Mina,Raymundo435@mailxyz.com,male,white,19,Young Adults,Kwazulu Natal,@Raymundo43,Cartoon Network,2016-02-28 10:38:00.000000,Morning,0
+1445,Kip,Luthy,Kip141@yahoo.com,male,coloured,13,Teens,Northern Cape,@Kip14,CNN,2016-03-06 15:47:00.000000,Afternoon,33
+3871,None,None,Adela222@gmail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-30 17:02:00.000000,Afternoon,70
+9194,Shane,Mina,Shane22@gmail.com,male,coloured,36,Adults,Western Cape,@Shane2,DStv Events 1,2016-01-19 18:55:00.000000,Evening,45
+11883,None,None,Teresia484@abcmail.com,None,None,0,Kids,None,None,DStv Events 1,2016-01-08 06:12:00.000000,Morning,115
+18031,Lillie,Langenfeld,Lillie463@mail.com,female,black,37,Adults,Gauteng,@Lillie46,CNN,2016-01-06 23:00:00.000000,Night,1491
+18072,Art,Creager,Art402@gmail.com,male,white,37,Adults,Western Cape,@Art40,Cartoon Network,2016-01-16 17:09:00.000000,Afternoon,242
+18136,Stephen,Sytsma,Stephen151@yahoo.com,male,coloured,35,Young Adults,Gauteng,@Stephen15,Cartoon Network,2016-01-22 10:26:00.000000,Morning,18
+20315,None,None,Yolonda255@mailxyz.com,None,None,0,Kids,None,None,E! Entertainment,2016-03-30 18:07:00.000000,Evening,328
+23925,Art,Pool,Art405@mailxyz.com,male,black,43,Adults,Kwazulu Natal,@Art40,DStv Events 1,2016-01-02 07:18:00.000000,Morning,95
+24110,Adela,Vital,Adela201@yahoo.com,female,black,38,Adults,Eastern Cape,@Adela20,Africa Magic,2016-01-26 15:02:00.000000,Afternoon,99
+27318,None,None,Bess32@gmail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-26 18:48:00.000000,Evening,120
+28115,Valentine,Sieren,Valentine472@gmail.com,male,black,44,Adults,Limpopo,@Valentine47,SuperSport Blitz,2016-01-30 05:18:00.000000,Morning,76
+28240,Michel,Deblois,Michel203@mail.com,male,None,40,Adults,Gauteng,@Michel20,Cartoon Network,2016-03-20 15:30:00.000000,Afternoon,47
+31162,None,None,Mellie505@mailxyz.com,None,None,0,Kids,None,None,Supersport Live Events,2016-03-19 17:19:00.000000,Afternoon,576
+33103,Kip,Nicholls,Kip145@mailxyz.com,male,coloured,26,Young Adults,Gauteng,@Kip14,E! Entertainment,2016-01-06 03:41:00.000000,Morning,188
+33773,None,None,Torrie294@abcmail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-12 08:50:00.000000,Morning,8
+36057,Efren,Styer,Efren131@yahoo.com,male,black,50,Adults,Eastern Cape,@Efren13,Africa Magic,2016-03-29 09:11:00.000000,Morning,240
+39353,None,None,Rebekah374@abcmail.com,None,None,0,Kids,None,None,Trace TV,2016-01-05 01:54:00.000000,Morning,210
+42284,Wilton,Bilyeu,Wilton413@mail.com,male,coloured,36,Adults,Northern Cape,@Wilton41,MK,2016-01-16 21:07:00.000000,Evening,99
+45769,None,None,Emilie443@mail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-12 11:28:00.000000,Morning,104
+51888,Katharina,Condie,Katharina135@mailxyz.com,female,black,24,Young Adults,Mpumalanga,@Katharina13,Cartoon Network,2016-01-08 06:05:00.000000,Morning,34
+56067,Eli,Shkreli,Eli292@gmail.com,male,black,26,Young Adults,Kwazulu Natal,@Eli29,CNN,2016-01-22 16:02:00.000000,Afternoon,22
+56830,None,None,Reagan72@gmail.com,None,None,0,Kids,None,None,CNN,2016-01-01 17:03:00.000000,Afternoon,196
+58907,None,None,Earline283@mail.com,None,None,0,Kids,None,None,Cartoon Network,2016-01-09 08:01:00.000000,Morning,83
+60711,Bernardo,Gettys,Bernardo322@gmail.com,male,black,22,Young Adults,Gauteng,@Bernardo32,Channel O,2016-01-04 07:02:00.000000,Morning,30
+61198,None,None,Reagan471@yahoo.com,None,None,0,Kids,None,None,Trace TV,2016-01-11 17:42:00.000000,Afternoon,39
+63454,None,None,Emilie484@abcmail.com,None,None,0,Kids,None,None,CNN,2016-01-04 04:10:00.000000,Morning,800
+65180,None,None,Meghann363@mail.com,None,None,0,Kids,None,None,Africa Magic,2016-01-22 09:35:00.000000,Morning,17
+65192,None,None,Meghann405@mailxyz.com,None,None,0,Kids,None,None,DStv Events 1,2016-01-20 00:05:00.000000,Morning,45
+67073,None,None,Lillian221@yahoo.com,None,None,0,Kids,None,None,Channel O,2016-01-04 10:23:00.000000,Morning,9
+67155,None,None,Winona134@abcmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-01-10 11:37:00.000000,Morning,14
+67584,Hollis,Caves,Hollis383@mail.com,male,white,58,Seniors,Western Cape,@Hollis38,Supersport Live Events,2016-01-18 15:04:00.000000,Afternoon,358
+69030,Stacy,Tancredi,Stacy275@mailxyz.com,male,black,37,Adults,Free State,@Stacy27,Supersport Live Events,2016-03-06 13:32:00.000000,Afternoon,198
+69455,Yong,Restivo,Yong483@mail.com,male,white,35,Young Adults,Western Cape,@Yong48,Supersport Live Events,2016-03-26 16:36:00.000000,Afternoon,184
+69707,Samuel,Pascarella,Samuel264@abcmail.com,male,indian_asian,34,Young Adults,Kwazulu Natal,@Samuel26,SuperSport Blitz,2016-03-19 22:13:00.000000,Evening,110
+69889,Hugh,Sytsma,Hugh11@yahoo.com,male,coloured,33,Young Adults,Western Cape,@Hugh1,Boomerang,2016-03-06 17:54:00.000000,Afternoon,283
+71491,Filiberto,Mastrangelo,Filiberto45@mailxyz.com,male,other,25,Young Adults,Gauteng,@Filiberto4,Trace TV,2016-03-26 07:02:00.000000,Morning,6
+72316,Teresia,Beville,Teresia201@yahoo.com,female,coloured,9,Kids,Mpumalanga,@Teresia20,Supersport Live Events,2016-01-18 17:43:00.000000,Afternoon,1998
+80147,None,None,Cordie474@abcmail.com,None,None,0,Kids,None,None,Supersport Live Events,2016-03-26 10:14:00.000000,Morning,30
+82389,None,None,Sharri332@gmail.com,None,None,0,Kids,None,None,DStv Events 1,2016-01-08 11:33:00.000000,Morning,570
+82694,None,None,Rebecka275@mailxyz.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-03-30 18:42:00.000000,Evening,112
+82780,None,None,Gretta45@mailxyz.com,None,None,0,Kids,None,None,Channel O,2016-03-26 06:54:00.000000,Morning,633
+83865,None,None,Bess134@abcmail.com,None,None,0,Kids,None,None,kykNET,2016-01-18 18:23:00.000000,Evening,84
+85476,Briana,Caves,Briana402@gmail.com,female,black,34,Young Adults,Kwazulu Natal,@Briana40,Africa Magic,2016-01-02 14:48:00.000000,Afternoon,126
+85945,Emerson,Sytsma,Emerson244@abcmail.com,male,white,30,Young Adults,Gauteng,@Emerson24,E! Entertainment,2016-01-02 01:18:00.000000,Morning,1534
+86003,Randy,Leicht,Randy392@gmail.com,male,black,30,Young Adults,Gauteng,@Randy39,Supersport Live Events,2016-01-08 14:51:00.000000,Afternoon,52
+86582,Royal,Restivo,Royal174@abcmail.com,male,black,25,Young Adults,Limpopo,@Royal17,Channel O,2016-01-26 17:29:00.000000,Afternoon,2268
+87234,None,None,Trudie473@mail.com,None,None,0,Kids,None,None,Channel O,2016-01-15 07:44:00.000000,Morning,66
+91694,Irving,Luthy,Irving52@gmail.com,male,coloured,41,Adults,Gauteng,@Irving5,Africa Magic,2016-01-22 07:39:00.000000,Morning,14
+98046,Donald,Zweifel,Donald223@mail.com,male,black,31,Young Adults,Kwazulu Natal,@Donald22,Channel O,2016-01-13 18:36:00.000000,Evening,168
+99045,Earl,Shkreli,Earl422@gmail.com,male,other,18,Young Adults,Limpopo,@Earl42,Trace TV,2016-01-01 19:24:00.000000,Evening,159
+100538,None,None,Epifania75@mailxyz.com,None,None,0,Kids,None,None,Supersport Live Events,2016-03-24 14:25:00.000000,Afternoon,5550
+102190,Haywood,Sieren,Haywood94@abcmail.com,male,white,42,Adults,Gauteng,@Haywood9,ICC Cricket World Cup 2011,2016-03-25 15:40:00.000000,Afternoon,160
+103451,Roxane,Lavoie,Roxane111@yahoo.com,female,black,27,Young Adults,Gauteng,@Roxane11,E! Entertainment,2016-01-16 15:26:00.000000,Afternoon,448
+103657,Romeo,Tatham,Romeo372@gmail.com,male,white,24,Young Adults,Mpumalanga,@Romeo37,M-Net,2016-03-19 17:11:00.000000,Afternoon,178
+104516,None,None,Felipa325@mailxyz.com,None,None,0,Kids,None,None,CNN,2016-03-26 05:48:00.000000,Morning,69
+115255,Yong,Jacox,Yong481@yahoo.com,male,black,40,Adults,Kwazulu Natal,@Yong48,Africa Magic,2016-01-28 17:53:00.000000,Afternoon,4
+115518,Bret,Jacox,Bret315@mailxyz.com,male,black,36,Adults,Gauteng,@Bret31,E! Entertainment,2016-03-05 17:41:00.000000,Afternoon,108
+117954,None,None,Reagan491@yahoo.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-05 09:15:00.000000,Morning,60
+119673,Lillian,Borelli,Lillian472@gmail.com,female,white,38,Adults,Kwazulu Natal,@Lillian47,Cartoon Network,2016-01-15 08:13:00.000000,Morning,649
+120169,Katharina,Condie,Katharina215@mailxyz.com,female,black,30,Young Adults,Gauteng,@Katharina21,Africa Magic,2016-01-08 15:32:00.000000,Afternoon,118
+120870,Earl,Jacox,Earl424@abcmail.com,male,white,18,Young Adults,Mpumalanga,@Earl42,Cartoon Network,2016-01-27 15:05:00.000000,Afternoon,7
+122451,None,None,Mellie363@mail.com,None,None,0,Kids,None,None,Channel O,2016-01-20 13:06:00.000000,Afternoon,12
+131449,None,None,Loris354@abcmail.com,None,None,0,Kids,None,None,CNN,2016-01-15 15:55:00.000000,Afternoon,340
+134526,None,None,Bess204@abcmail.com,None,None,0,Kids,None,None,Vuzu,2016-01-07 11:03:00.000000,Morning,1
+135780,Wilburn,Bilyeu,Wilburn302@gmail.com,male,black,47,Adults,Kwazulu Natal,@Wilburn30,Supersport Live Events,2016-01-15 17:57:00.000000,Afternoon,82
+140005,Hyman,Martello,Hyman85@mailxyz.com,male,coloured,29,Young Adults,Eastern Cape,@Hyman8,Break in transmission,2016-03-01 19:31:00.000000,Evening,10
+147935,None,None,Eula281@yahoo.com,None,None,0,Kids,None,None,Boomerang,2016-01-11 07:44:00.000000,Morning,262
+150729,Wilburn,Singer,Wilburn305@mailxyz.com,male,white,22,Young Adults,Mpumalanga,@Wilburn30,ICC Cricket World Cup 2011,2016-03-15 09:50:00.000000,Morning,152
+150741,Eula,Mccown,Eula294@abcmail.com,female,black,22,Young Adults,Gauteng,@Eula29,Africa Magic,2016-01-20 07:47:00.000000,Morning,621
+152716,None,None,Irmgard81@yahoo.com,None,None,0,Kids,None,None,E! Entertainment,2016-01-25 07:26:00.000000,Morning,202
+159026,Iva,Styer,Iva213@mail.com,female,coloured,18,Young Adults,Gauteng,@Iva21,Supersport Live Events,2016-03-06 12:58:00.000000,Afternoon,130
+159156,None,None,Zetta73@mail.com,None,None,0,Kids,None,None,Cartoon Network,2016-03-06 10:17:00.000000,Morning,21
+162361,Hugh,Caves,Hugh15@mailxyz.com,male,black,33,Young Adults,Gauteng,@Hugh1,M-Net,2016-01-11 18:02:00.000000,Evening,132
+162937,Brendan,Luthy,Brendan454@abcmail.com,male,white,24,Young Adults,Gauteng,@Brendan45,E! Entertainment,2016-01-23 16:25:00.000000,Afternoon,170
+163109,Haywood,Lavoie,Haywood93@mail.com,male,None,21,Young Adults,Western Cape,@Haywood9,Cartoon Network,2016-03-29 18:13:00.000000,Evening,60
+170792,Emerson,Tancredi,Emerson243@mail.com,male,black,31,Young Adults,Gauteng,@Emerson24,Channel O,2016-03-29 03:02:00.000000,Morning,0
+173765,None,None,Tiffani292@gmail.com,None,None,0,Kids,None,None,Trace TV,2016-01-08 07:29:00.000000,Morning,63
+177269,None,None,Shelley31@yahoo.com,None,None,0,Kids,None,None,M-Net,2016-01-09 08:25:00.000000,Morning,190
+178022,Len,Mina,Len443@mail.com,male,white,54,Seniors,Mpumalanga,@Len44,ICC Cricket World Cup 2011,2016-03-29 12:51:00.000000,Afternoon,282
+178813,Yong,Gettys,Yong484@abcmail.com,male,coloured,33,Young Adults,Gauteng,@Yong48,Supersport Live Events,2016-01-15 08:40:00.000000,Morning,64
+178992,Krysta,Mastrangelo,Krysta373@mail.com,female,indian_asian,30,Young Adults,Limpopo,@Krysta37,Cartoon Network,2016-01-06 20:01:00.000000,Evening,59
+182630,None,None,Felipa484@abcmail.com,None,None,0,Kids,None,None,Trace TV,2016-03-27 21:29:00.000000,Evening,78
+183425,Wilburn,Jacox,Wilburn304@abcmail.com,male,black,35,Young Adults,Mpumalanga,@Wilburn30,Africa Magic,2016-01-02 09:57:00.000000,Morning,54
+183982,Bess,Jacox,Bess151@yahoo.com,female,black,27,Young Adults,Gauteng,@Bess15,Africa Magic,2016-01-26 16:46:00.000000,Afternoon,29
+187786,Iva,Styer,Iva265@mailxyz.com,female,white,37,Adults,Kwazulu Natal,@Iva26,Supersport Live Events,2016-01-05 14:48:00.000000,Afternoon,48
+189027,Earl,Paradis,Earl422@gmail.com,male,coloured,13,Teens,Free State,@Earl42,Trace TV,2016-03-29 17:17:00.000000,Afternoon,198
+189392,None,None,Iva25@mailxyz.com,None,None,0,Kids,None,None,Trace TV,2016-03-29 17:06:00.000000,Afternoon,72
+190586,None,None,Lesli111@yahoo.com,None,None,0,Kids,None,None,Boomerang,2016-01-17 17:07:00.000000,Afternoon,17
+193886,None,None,Anette214@abcmail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-30 08:03:00.000000,Morning,12
+196084,Bernardo,Langenfeld,Bernardo321@yahoo.com,male,coloured,43,Adults,Northern Cape,@Bernardo32,M-Net,2016-01-04 03:42:00.000000,Morning,352
+199852,None,None,Alecia502@gmail.com,None,None,0,Kids,None,None,kykNET,2016-01-04 08:37:00.000000,Morning,93
+202019,Irving,Creager,Irving55@mailxyz.com,male,indian_asian,25,Young Adults,Western Cape,@Irving5,ICC Cricket World Cup 2011,2016-03-30 08:59:00.000000,Morning,256
+206207,Markus,Sieren,Markus191@yahoo.com,male,indian_asian,27,Young Adults,Gauteng,@Markus19,E! Entertainment,2016-03-30 13:18:00.000000,Afternoon,28
+210187,Wilburn,Lavoie,Wilburn303@mail.com,male,black,31,Young Adults,North West,@Wilburn30,Africa Magic,2016-01-22 19:52:00.000000,Evening,35
+211993,None,None,Gretta195@mailxyz.com,None,None,0,Kids,None,None,CNN,2016-02-24 06:08:00.000000,Morning,23
+212439,None,None,Torrie412@gmail.com,None,None,0,Kids,None,None,Boomerang,2016-03-04 23:12:00.000000,Night,867
+220052,Emilie,Deblois,Emilie444@abcmail.com,female,white,22,Young Adults,Northern Cape,@Emilie44,Boomerang,2016-03-25 12:51:00.000000,Afternoon,1004
+220098,Romeo,Singer,Romeo373@mail.com,male,white,21,Young Adults,Eastern Cape,@Romeo37,E! Entertainment,2016-03-31 09:28:00.000000,Morning,40
+221281,None,None,Desirae61@yahoo.com,None,None,0,Kids,None,None,Trace TV,2016-01-27 10:57:00.000000,Morning,42
+223263,Hugh,Leicht,Hugh13@mail.com,male,white,54,Seniors,Limpopo,@Hugh1,Cartoon Network,2016-01-30 18:01:00.000000,Evening,17
+229151,Lane,Mcclaine,Lane113@mail.com,male,black,25,Young Adults,Gauteng,@Lane11,Cartoon Network,2016-01-27 09:34:00.000000,Morning,23
+233448,Luanna,Hoadley,Luanna435@mailxyz.com,female,coloured,30,Young Adults,Eastern Cape,@Luanna43,Cartoon Network,2016-01-16 11:42:00.000000,Morning,332
+237510,Earline,Zweifel,Earline282@gmail.com,female,black,42,Adults,Gauteng,@Earline28,Supersport Live Events,2016-01-09 14:52:00.000000,Afternoon,44
+241871,Claud,Creager,Claud345@mailxyz.com,male,white,39,Adults,Gauteng,@Claud34,Trace TV,2016-01-25 15:52:00.000000,Afternoon,2802
+243824,None,None,Desirae232@gmail.com,None,None,0,Kids,None,None,Africa Magic,2016-01-29 17:53:00.000000,Afternoon,59
+246335,Raymundo,Pascarella,Raymundo433@mail.com,male,coloured,32,Young Adults,Western Cape,@Raymundo43,SuperSport Blitz,2016-01-07 21:08:00.000000,Evening,532
+252969,Royal,Arrieta,Royal171@yahoo.com,male,coloured,18,Young Adults,Eastern Cape,@Royal17,Trace TV,2016-01-15 14:51:00.000000,Afternoon,54
+257303,Jacinto,Zweifel,Jacinto251@yahoo.com,male,coloured,25,Young Adults,Western Cape,@Jacinto25,Supersport Live Events,2016-01-09 14:26:00.000000,Afternoon,112
+257502,Gretta,Mosser,Gretta481@yahoo.com,female,black,22,Young Adults,Limpopo,@Gretta48,Trace TV,2016-03-28 17:44:00.000000,Afternoon,168
+264705,Dia,Arrieta,Dia334@abcmail.com,female,black,37,Adults,Mpumalanga,@Dia33,Africa Magic,2016-03-28 19:32:00.000000,Evening,166
+266766,Krysta,Mastrangelo,Krysta452@gmail.com,female,black,29,Young Adults,Gauteng,@Krysta45,Africa Magic,2016-01-30 22:06:00.000000,Evening,521
+266792,Claud,Mcclaine,Claud344@abcmail.com,male,coloured,28,Young Adults,Gauteng,@Claud34,ICC Cricket World Cup 2011,2016-03-03 06:34:00.000000,Morning,118
+268737,Wilburn,Mccown,Wilburn305@mailxyz.com,male,black,23,Young Adults,Gauteng,@Wilburn30,Supersport Live Events,2016-01-10 20:15:00.000000,Evening,96
+273196,None,None,Blanca471@yahoo.com,None,None,0,Kids,None,None,E! Entertainment,2016-03-25 07:19:00.000000,Morning,46
+273648,None,None,Zetta132@gmail.com,None,None,0,Kids,None,None,Africa Magic,2016-03-29 07:02:00.000000,Morning,234
+273732,None,None,Irmgard395@mailxyz.com,None,None,0,Kids,None,None,SawSee,2016-03-30 17:10:00.000000,Afternoon,9
+279464,None,None,Eula392@gmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-03-29 20:38:00.000000,Evening,64
+283746,None,None,Iva325@mailxyz.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-25 14:16:00.000000,Afternoon,0
+283970,None,None,Alissa282@gmail.com,None,None,0,Kids,None,None,Supersport Live Events,2016-03-19 15:46:00.000000,Afternoon,268
+294092,None,None,Lillian141@yahoo.com,None,None,0,Kids,None,None,Cartoon Network,2016-01-14 16:14:00.000000,Afternoon,54
+301011,Robby,Caves,Robby162@gmail.com,male,black,47,Adults,North West,@Robby16,SuperSport Blitz,2016-01-08 17:03:00.000000,Afternoon,68
+302333,Mellie,Creager,Mellie145@mailxyz.com,female,black,22,Young Adults,Gauteng,@Mellie14,Trace TV,2016-01-04 06:04:00.000000,Morning,9
+303194,None,None,Meghann242@gmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-01-08 18:19:00.000000,Evening,244
+304208,None,None,Shandra12@gmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-03-26 17:18:00.000000,Afternoon,74
+304349,Valentine,Mcclaine,Valentine475@mailxyz.com,male,None,0,Kids,None,@Valentine47,Trace TV,2016-01-16 21:03:00.000000,Evening,321
+304977,Desirae,Luthy,Desirae455@mailxyz.com,female,black,45,Adults,Free State,@Desirae45,Trace TV,2016-01-06 03:41:00.000000,Morning,60
+305730,Mellie,Creager,Mellie32@gmail.com,female,black,30,Young Adults,Kwazulu Natal,@Mellie3,Boomerang,2016-01-05 12:24:00.000000,Afternoon,976
+320909,Valentine,Mosser,Valentine472@gmail.com,male,other,36,Adults,Western Cape,@Valentine47,Boomerang,2016-01-04 12:39:00.000000,Afternoon,72
+325546,Cody,Slane,Cody124@abcmail.com,male,black,26,Young Adults,Mpumalanga,@Cody12,SawSee,2016-01-06 20:03:00.000000,Evening,29
+332788,Art,Shkreli,Art403@mail.com,male,None,38,Adults,Gauteng,@Art40,kykNET,2016-01-18 21:55:00.000000,Evening,15
+334955,None,None,Luanna161@yahoo.com,None,None,0,Kids,None,None,SawSee,2016-03-06 12:27:00.000000,Afternoon,5
+341651,Haywood,Tatham,Haywood92@gmail.com,male,white,16,Teens,Western Cape,@Haywood9,Cartoon Network,2016-01-02 08:04:00.000000,Morning,5
+349851,None,None,Felipa391@yahoo.com,None,None,0,Kids,None,None,SawSee,2016-03-26 21:04:00.000000,Evening,91
+366496,Alissa,Woolard,Alissa143@mail.com,female,black,18,Young Adults,Gauteng,@Alissa14,Trace TV,2016-01-02 15:11:00.000000,Afternoon,558
+366659,None,None,Yolonda164@abcmail.com,None,None,0,Kids,None,None,Supersport Live Events,2016-03-19 17:26:00.000000,Afternoon,2696
+370331,Epifania,Crotty,Epifania65@mailxyz.com,female,white,39,Adults,Gauteng,@Epifania6,ICC Cricket World Cup 2011,2016-02-24 10:10:00.000000,Morning,220
+370637,Valentine,Martello,Valentine472@gmail.com,male,coloured,34,Young Adults,Western Cape,@Valentine47,Supersport Live Events,2016-01-18 13:58:00.000000,Afternoon,1866
+371772,Nubia,Sytsma,Nubia45@mailxyz.com,female,indian_asian,9,Kids,Eastern Cape,@Nubia4,Channel O,2016-01-09 15:38:00.000000,Afternoon,0
+375502,Markus,Condie,Markus194@abcmail.com,male,indian_asian,26,Young Adults,Limpopo,@Markus19,Boomerang,2016-02-18 04:25:00.000000,Morning,4
+375711,Dee,Curran,Dee215@mailxyz.com,male,white,23,Young Adults,Gauteng,@Dee21,Trace TV,2016-01-08 11:27:00.000000,Morning,114
+378123,None,None,Gretta281@yahoo.com,None,None,0,Kids,None,None,Boomerang,2016-01-03 08:13:00.000000,Morning,49
+390286,Lloyd,Mccown,Lloyd74@abcmail.com,male,None,25,Young Adults,Kwazulu Natal,@Lloyd7,Supersport Live Events,2016-01-04 23:16:00.000000,Night,8
+390361,Minerva,Marek,Minerva205@mailxyz.com,female,coloured,24,Young Adults,Gauteng,@Minerva20,Channel O,2016-02-18 00:36:00.000000,Morning,42
+393552,Garry,Hoadley,Garry281@yahoo.com,male,coloured,33,Young Adults,Western Cape,@Garry28,Supersport Live Events,2016-01-29 19:06:00.000000,Evening,2926
+394624,Emerson,Pilot,Emerson241@yahoo.com,male,white,13,Teens,Mpumalanga,@Emerson24,Boomerang,2016-03-07 05:21:00.000000,Morning,211
+397995,Samuel,Mina,Samuel263@mail.com,male,black,25,Young Adults,Gauteng,@Samuel26,Vuzu,2016-01-23 22:33:00.000000,Evening,25
+404205,Wilton,Leicht,Wilton413@mail.com,male,black,45,Adults,Kwazulu Natal,@Wilton41,Supersport Live Events,2016-01-09 15:34:00.000000,Afternoon,3894
+411036,Eula,Mccown,Eula395@mailxyz.com,female,white,27,Young Adults,Western Cape,@Eula39,Supersport Live Events,2016-01-06 12:09:00.000000,Afternoon,16
+411548,Shane,Roquemore,Shane21@yahoo.com,male,black,15,Teens,Kwazulu Natal,@Shane2,Cartoon Network,2016-01-03 05:29:00.000000,Morning,47
+412331,None,None,Iva141@yahoo.com,None,None,0,Kids,None,None,E! Entertainment,2016-01-04 18:31:00.000000,Evening,42
+422095,None,None,Briana302@gmail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-30 14:24:00.000000,Afternoon,24
+426407,Irving,Jacox,Irving52@gmail.com,male,None,27,Young Adults,Western Cape,@Irving5,Supersport Live Events,2016-01-06 12:03:00.000000,Afternoon,1462
+427849,None,None,Tiffani171@yahoo.com,None,None,0,Kids,None,None,Cartoon Network,2016-01-11 14:03:00.000000,Afternoon,65
+432435,Cory,Woolard,Cory101@yahoo.com,male,black,53,Seniors,Kwazulu Natal,@Cory10,Supersport Live Events,2016-01-05 20:18:00.000000,Evening,2414
+433262,Carter,Biggers,Carter32@gmail.com,male,black,29,Young Adults,Limpopo,@Carter3,Channel O,2016-01-21 21:26:00.000000,Evening,108
+436474,Lillie,Langenfeld,Lillie114@abcmail.com,female,black,42,Adults,Gauteng,@Lillie11,Africa Magic,2016-01-08 12:46:00.000000,Afternoon,299
+440632,Gretta,Mosser,Gretta334@abcmail.com,female,coloured,32,Young Adults,Western Cape,@Gretta33,SuperSport Blitz,2016-01-25 16:15:00.000000,Afternoon,122
+443916,Bess,Jacox,Bess61@yahoo.com,female,white,39,Adults,Gauteng,@Bess6,SawSee,2016-01-15 03:37:00.000000,Morning,193
+447555,Cory,Singer,Cory103@mail.com,male,black,38,Adults,Mpumalanga,@Cory10,Africa Magic,2016-01-09 09:25:00.000000,Morning,798
+453480,None,None,Shandra473@mail.com,None,None,0,Kids,None,None,Africa Magic,2016-03-28 08:48:00.000000,Morning,44
+457259,None,None,Malika264@abcmail.com,None,None,0,Kids,None,None,Channel O,2016-01-12 08:11:00.000000,Morning,1728
+460303,None,None,Williemae111@yahoo.com,None,None,0,Kids,None,None,Cartoon Network,2016-01-22 16:30:00.000000,Afternoon,75
+469412,Stacy,Sieren,Stacy272@gmail.com,male,None,46,Adults,Western Cape,@Stacy27,Supersport Live Events,2016-01-08 16:18:00.000000,Afternoon,142
+469821,Cory,Arrieta,Cory105@mailxyz.com,male,black,36,Adults,Gauteng,@Cory10,Channel O,2016-01-10 12:43:00.000000,Afternoon,210
+474745,Garry,Shkreli,Garry284@abcmail.com,male,black,18,Young Adults,Limpopo,@Garry28,Channel O,2016-01-20 13:44:00.000000,Afternoon,849
+478172,Loyd,Mcculloch,Loyd492@gmail.com,male,white,26,Young Adults,North West,@Loyd49,Boomerang,2016-01-10 10:53:00.000000,Morning,183
+480591,None,None,Briana271@yahoo.com,None,None,0,Kids,None,None,Supersport Live Events,2016-03-26 05:17:00.000000,Morning,484
+481770,Filiberto,Hoadley,Filiberto42@gmail.com,male,indian_asian,28,Young Adults,Kwazulu Natal,@Filiberto4,Trace TV,2016-01-14 05:01:00.000000,Morning,972
+483783,None,None,Luanna12@gmail.com,None,None,0,Kids,None,None,Trace TV,2016-03-30 05:16:00.000000,Morning,60
+488096,Stacy,Paradis,Stacy273@mail.com,male,black,51,Seniors,Gauteng,@Stacy27,Channel O,2016-01-24 12:16:00.000000,Afternoon,222
+489828,None,None,Luanna393@mail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-03-15 10:25:00.000000,Morning,390
+491723,Lloyd,Mccollum,Lloyd73@mail.com,male,coloured,51,Seniors,Western Cape,@Lloyd7,CNN,2016-02-18 20:48:00.000000,Evening,8372
+491753,Desirae,Luthy,Desirae471@yahoo.com,female,white,50,Adults,Kwazulu Natal,@Desirae47,Supersport Live Events,2016-01-05 14:41:00.000000,Afternoon,4838
+492769,Loyd,Wigfall,Loyd491@yahoo.com,male,black,25,Young Adults,Gauteng,@Loyd49,Channel O,2016-01-14 17:03:00.000000,Afternoon,93
+492897,Samuel,Sytsma,Samuel265@mailxyz.com,male,coloured,23,Young Adults,Mpumalanga,@Samuel26,Trace TV,2016-01-18 23:01:00.000000,Night,138
+496120,Hollis,Crotty,Hollis385@mailxyz.com,male,black,27,Young Adults,Free State,@Hollis38,SawSee,2016-03-04 18:38:00.000000,Evening,5
+499367,Brendan,Mosser,Brendan454@abcmail.com,male,black,32,Young Adults,Western Cape,@Brendan45,Trace TV,2016-01-06 16:39:00.000000,Afternoon,78
+507286,Yolonda,Pascarella,Yolonda324@abcmail.com,female,None,11,Kids,Eastern Cape,@Yolonda32,Boomerang,2016-01-03 15:00:00.000000,Afternoon,2951
+511233,None,None,Minerva215@mailxyz.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-01-09 20:56:00.000000,Evening,2862
+512519,Haywood,Crotty,Haywood92@gmail.com,male,black,54,Seniors,Gauteng,@Haywood9,Africa Magic,2016-01-10 20:03:00.000000,Evening,25
+517144,Cody,Mastrangelo,Cody121@yahoo.com,male,black,29,Young Adults,Mpumalanga,@Cody12,SawSee,2016-01-21 12:31:00.000000,Afternoon,17
+519784,None,None,Torrie433@mail.com,None,None,0,Kids,None,None,Supersport Live Events,2016-01-18 19:34:00.000000,Evening,312
+520552,Shelley,Reisinger,Shelley304@abcmail.com,female,black,33,Young Adults,Eastern Cape,@Shelley30,Cartoon Network,2016-01-10 19:23:00.000000,Evening,2181
+521247,Hollis,Marek,Hollis384@abcmail.com,male,black,21,Young Adults,Mpumalanga,@Hollis38,Channel O,2016-01-08 12:25:00.000000,Afternoon,288
+522890,None,None,Briana491@yahoo.com,None,None,0,Kids,None,None,E! Entertainment,2016-01-07 18:35:00.000000,Evening,28
+530287,Brendan,Langenfeld,Brendan452@gmail.com,male,indian_asian,33,Young Adults,Mpumalanga,@Brendan45,SuperSport Blitz,2016-01-18 13:42:00.000000,Afternoon,50
+530321,Tiffani,Pilot,Tiffani383@mail.com,female,black,33,Young Adults,Limpopo,@Tiffani38,SuperSport Blitz,2016-01-26 06:47:00.000000,Morning,42
+530495,Nubia,Sytsma,Nubia405@mailxyz.com,female,black,30,Young Adults,Gauteng,@Nubia40,SawSee,2016-01-09 17:20:00.000000,Afternoon,17
+531053,Hollis,Marek,Hollis385@mailxyz.com,male,coloured,18,Young Adults,Western Cape,@Hollis38,Cartoon Network,2016-01-11 07:09:00.000000,Morning,137
+533013,Lloyd,Pilot,Lloyd72@gmail.com,male,coloured,56,Seniors,Eastern Cape,@Lloyd7,Supersport Live Events,2016-01-11 15:52:00.000000,Afternoon,30
+534080,Shane,Luthy,Shane21@yahoo.com,male,white,23,Young Adults,Eastern Cape,@Shane2,Trace TV,2016-01-07 09:51:00.000000,Morning,156
+536151,Lillian,Borelli,Lillian233@mail.com,female,white,42,Adults,Western Cape,@Lillian23,Cartoon Network,2016-01-11 14:15:00.000000,Afternoon,54
+539176,Brendan,Sieren,Brendan454@abcmail.com,male,None,49,Adults,Western Cape,@Brendan45,CNN,2016-01-19 19:26:00.000000,Evening,300
+542553,Jared,Marek,Jared503@mail.com,male,coloured,47,Adults,Western Cape,@Jared50,Cartoon Network,2016-01-12 07:53:00.000000,Morning,55
+543441,Stephen,Zweifel,Stephen155@mailxyz.com,male,white,25,Young Adults,Gauteng,@Stephen15,Supersport Live Events,2016-01-05 08:49:00.000000,Morning,230
+543495,Loyd,Langenfeld,Loyd495@mailxyz.com,male,white,24,Young Adults,Gauteng,@Loyd49,Channel O,2016-01-22 08:29:00.000000,Morning,69
+549030,Valentine,Curran,Valentine475@mailxyz.com,male,None,42,Adults,Western Cape,@Valentine47,E! Entertainment,2016-01-02 08:46:00.000000,Morning,378
+549032,Stephen,Borelli,Stephen155@mailxyz.com,male,black,42,Adults,Gauteng,@Stephen15,Boomerang,2016-01-12 21:33:00.000000,Evening,615
+549789,Dion,Zweifel,Dion334@abcmail.com,male,black,25,Young Adults,Gauteng,@Dion33,Channel O,2016-01-22 14:32:00.000000,Afternoon,603
+549843,Shandra,Mccollum,Shandra262@gmail.com,female,black,24,Young Adults,North West,@Shandra26,Boomerang,2016-01-06 06:00:00.000000,Morning,0
+549969,Stacy,Pool,Stacy272@gmail.com,male,indian_asian,21,Young Adults,Mpumalanga,@Stacy27,Supersport Live Events,2016-03-24 08:43:00.000000,Morning,50
+551249,None,None,Malika495@mailxyz.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-02-24 10:21:00.000000,Morning,230
+552589,Markus,Curran,Markus195@mailxyz.com,male,None,32,Young Adults,Gauteng,@Markus19,Cartoon Network,2016-01-16 05:33:00.000000,Morning,32
+555618,Kip,Mccollum,Kip145@mailxyz.com,male,coloured,47,Adults,Eastern Cape,@Kip14,Boomerang,2016-01-16 18:29:00.000000,Evening,75
+559277,Wilton,Creager,Wilton413@mail.com,male,None,26,Young Adults,Western Cape,@Wilton41,E! Entertainment,2016-01-01 13:04:00.000000,Afternoon,96
+568131,Art,Crotty,Art401@yahoo.com,male,black,34,Young Adults,Gauteng,@Art40,Africa Magic,2016-01-07 13:35:00.000000,Afternoon,325
+573660,None,None,Earline61@yahoo.com,None,None,0,Kids,None,None,CNN,2016-03-31 11:31:00.000000,Morning,252
+575079,Samuel,Holt,Samuel265@mailxyz.com,male,black,43,Adults,Kwazulu Natal,@Samuel26,Africa Magic,2016-01-01 18:11:00.000000,Evening,104
+575863,Carter,Arrieta,Carter33@mail.com,male,white,26,Young Adults,Mpumalanga,@Carter3,DStv Events 1,2016-01-01 13:12:00.000000,Afternoon,115
+575881,Hugh,Shkreli,Hugh12@gmail.com,male,coloured,26,Young Adults,Western Cape,@Hugh1,Supersport Live Events,2016-01-09 13:38:00.000000,Afternoon,92
+576231,Emerson,Paradis,Emerson243@mail.com,male,black,17,Teens,Kwazulu Natal,@Emerson24,Trace TV,2016-01-03 21:27:00.000000,Evening,72
+578540,Samuel,Borelli,Samuel263@mail.com,male,black,51,Seniors,Eastern Cape,@Samuel26,CNN,2016-01-23 12:06:00.000000,Afternoon,3
+580854,None,None,Seema355@mailxyz.com,None,None,0,Kids,None,None,Cartoon Network,2016-03-27 16:59:00.000000,Afternoon,3898
+581681,Randy,Vital,Randy394@abcmail.com,male,white,48,Adults,Gauteng,@Randy39,Trace TV,2016-01-02 12:57:00.000000,Afternoon,522
+582217,Robby,Holt,Robby164@abcmail.com,male,black,34,Young Adults,Mpumalanga,@Robby16,Channel O,2016-01-01 21:04:00.000000,Evening,27
+582393,Lloyd,Mcclaine,Lloyd73@mail.com,male,indian_asian,30,Young Adults,Kwazulu Natal,@Lloyd7,Trace TV,2016-01-01 14:57:00.000000,Afternoon,15
+582516,Cody,Nicholls,Cody125@mailxyz.com,male,black,28,Young Adults,Gauteng,@Cody12,CNN,2016-01-02 14:26:00.000000,Afternoon,171
+582615,Filiberto,Condie,Filiberto42@gmail.com,male,None,26,Young Adults,Free State,@Filiberto4,M-Net,2016-01-01 16:23:00.000000,Afternoon,222
+582881,Epifania,Crotty,Epifania32@gmail.com,female,coloured,20,Young Adults,Northern Cape,@Epifania3,Trace TV,2016-01-01 15:36:00.000000,Afternoon,867
+585153,Kip,Hoadley,Kip144@abcmail.com,male,white,51,Seniors,Free State,@Kip14,E! Entertainment,2016-01-10 21:30:00.000000,Evening,172
+585283,Bernardo,Reisinger,Bernardo325@mailxyz.com,male,black,45,Adults,Gauteng,@Bernardo32,SuperSport Blitz,2016-01-14 18:01:00.000000,Evening,44
+585356,Randy,Mcculloch,Randy393@mail.com,male,coloured,43,Adults,Western Cape,@Randy39,Cartoon Network,2016-01-02 16:47:00.000000,Afternoon,4
+585415,Randy,Sieren,Randy395@mailxyz.com,male,black,41,Adults,Mpumalanga,@Randy39,Africa Magic,2016-01-09 17:26:00.000000,Afternoon,66
+585562,Lesli,Martello,Lesli205@mailxyz.com,female,None,38,Adults,Northern Cape,@Lesli20,Cartoon Network,2016-01-04 15:40:00.000000,Afternoon,52
+585655,Lane,Crotty,Lane111@yahoo.com,male,white,36,Adults,North West,@Lane11,Vuzu,2016-01-02 17:48:00.000000,Afternoon,18
+585704,Art,Jacox,Art403@mail.com,male,None,35,Young Adults,Mpumalanga,@Art40,E! Entertainment,2016-01-01 09:40:00.000000,Morning,4
+585831,Lillian,Borelli,Lillian221@yahoo.com,female,white,33,Young Adults,Gauteng,@Lillian22,Boomerang,2016-01-02 09:43:00.000000,Morning,99
+585833,Wilburn,Leicht,Wilburn301@yahoo.com,male,white,33,Young Adults,Gauteng,@Wilburn30,Cartoon Network,2016-01-01 20:32:00.000000,Evening,1164
+586144,Cory,Jacox,Cory105@mailxyz.com,male,white,28,Young Adults,Limpopo,@Cory10,Cartoon Network,2016-01-02 15:40:00.000000,Afternoon,3
+586305,Loyd,Paradis,Loyd493@mail.com,male,black,25,Young Adults,Limpopo,@Loyd49,Trace TV,2016-01-03 14:05:00.000000,Afternoon,24
+586442,Wilton,Beville,Wilton411@yahoo.com,male,white,22,Young Adults,Limpopo,@Wilton41,E! Entertainment,2016-03-10 14:56:00.000000,Afternoon,20
+586459,Lucas,Hier,Lucas233@mail.com,male,black,22,Young Adults,Free State,@Lucas23,Cartoon Network,2016-01-02 09:49:00.000000,Morning,310
+586480,Stephen,Restivo,Stephen153@mail.com,male,black,22,Young Adults,Mpumalanga,@Stephen15,DStv Events 1,2016-01-02 16:59:00.000000,Afternoon,145
+586564,Stefan,Mccown,Stefan463@mail.com,male,coloured,19,Young Adults,Gauteng,@Stefan46,Cartoon Network,2016-01-02 09:22:00.000000,Morning,2813
+588935,Cordie,Singer,Cordie63@mail.com,female,coloured,51,Seniors,Western Cape,@Cordie6,Channel O,2016-01-01 19:46:00.000000,Evening,411
+588987,Stefan,Jacox,Stefan461@yahoo.com,male,black,48,Adults,Gauteng,@Stefan46,CNN,2016-01-05 09:26:00.000000,Morning,45
+589137,Lesli,Martello,Lesli364@abcmail.com,female,None,42,Adults,Gauteng,@Lesli36,Cartoon Network,2016-01-03 13:45:00.000000,Afternoon,264
+589200,Bernardo,Singer,Bernardo325@mailxyz.com,male,None,41,Adults,Kwazulu Natal,@Bernardo32,Trace TV,2016-01-03 10:05:00.000000,Morning,261
+589286,Abel,Crotty,Abel185@mailxyz.com,male,None,39,Adults,Gauteng,@Abel18,Boomerang,2016-01-03 04:30:00.000000,Morning,21
+589895,Efren,Zweifel,Efren131@yahoo.com,male,white,27,Young Adults,Eastern Cape,@Efren13,Cartoon Network,2016-01-19 07:17:00.000000,Morning,994
+590330,Michel,Arrieta,Michel205@mailxyz.com,male,white,18,Young Adults,Mpumalanga,@Michel20,Boomerang,2016-01-06 23:13:00.000000,Night,364
+590480,Mellie,Creager,Mellie411@yahoo.com,female,indian_asian,10,Kids,Western Cape,@Mellie41,Africa Magic,2016-01-04 16:11:00.000000,Afternoon,167
+591868,None,None,Yolonda103@mail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-01-16 22:32:00.000000,Evening,4
+592732,Hugh,Bilyeu,Hugh14@abcmail.com,male,black,45,Adults,Limpopo,@Hugh1,Africa Magic,2016-01-13 05:04:00.000000,Morning,905
+592782,Valentine,Shkreli,Valentine471@yahoo.com,male,black,43,Adults,Gauteng,@Valentine47,Cartoon Network,2016-01-05 12:04:00.000000,Afternoon,226
+593079,Len,Crotty,Len444@abcmail.com,male,white,37,Adults,Gauteng,@Len44,Boomerang,2016-01-04 10:42:00.000000,Morning,275
+593270,Rebecka,Shkreli,Rebecka242@gmail.com,female,white,33,Young Adults,North West,@Rebecka24,DStv Events 1,2016-01-02 17:39:00.000000,Afternoon,955
+593622,Meghann,Curran,Meghann224@abcmail.com,female,black,27,Young Adults,Gauteng,@Meghann22,Trace TV,2016-01-21 12:05:00.000000,Afternoon,540
+593624,Efren,Wigfall,Efren133@mail.com,male,other,27,Young Adults,Eastern Cape,@Efren13,E! Entertainment,2016-01-01 08:30:00.000000,Morning,758
+593674,Earl,Sytsma,Earl424@abcmail.com,male,None,26,Young Adults,Western Cape,@Earl42,Trace TV,2016-01-03 14:24:00.000000,Afternoon,642
+593678,Garry,Deblois,Garry284@abcmail.com,male,black,26,Young Adults,Kwazulu Natal,@Garry28,DStv Events 1,2016-01-03 23:49:00.000000,Night,225
+593867,Hyman,Sieren,Hyman83@mail.com,male,white,23,Young Adults,Gauteng,@Hyman8,DStv Events 1,2016-01-07 16:23:00.000000,Afternoon,145
+596255,Royal,Mccollum,Royal175@mailxyz.com,male,None,54,Seniors,Gauteng,@Royal17,CNN,2016-01-02 17:17:00.000000,Afternoon,59
+596302,Lloyd,Reisinger,Lloyd73@mail.com,male,white,50,Adults,Gauteng,@Lloyd7,SawSee,2016-01-03 19:56:00.000000,Evening,79
+596429,Samuel,Caves,Samuel261@yahoo.com,male,white,44,Adults,Gauteng,@Samuel26,SuperSport Blitz,2016-01-20 13:17:00.000000,Afternoon,226
+596969,Teresia,Beville,Teresia505@mailxyz.com,female,black,33,Young Adults,Gauteng,@Teresia50,Trace TV,2016-01-08 20:54:00.000000,Evening,15
+597265,Donald,Roquemore,Donald221@yahoo.com,male,black,28,Young Adults,Gauteng,@Donald22,Channel O,2016-01-08 13:31:00.000000,Afternoon,1446
+597268,Michel,Deblois,Michel204@abcmail.com,male,black,28,Young Adults,Eastern Cape,@Michel20,Supersport Live Events,2016-01-08 07:26:00.000000,Morning,50
+597416,Kyle,Crotty,Kyle63@mail.com,male,black,25,Young Adults,Gauteng,@Kyle6,Supersport Live Events,2016-01-05 09:22:00.000000,Morning,2436
+597491,Stephen,Sieren,Stephen152@gmail.com,male,black,24,Young Adults,Gauteng,@Stephen15,Boomerang,2016-01-05 18:07:00.000000,Evening,2615
+597503,Lucas,Mcclaine,Lucas231@yahoo.com,male,white,24,Young Adults,Gauteng,@Lucas23,Boomerang,2016-01-10 12:49:00.000000,Afternoon,457
+597546,Len,Mastrangelo,Len441@yahoo.com,male,black,23,Young Adults,Kwazulu Natal,@Len44,Africa Magic,2016-01-06 23:45:00.000000,Night,70
+600115,Royal,Mccown,Royal171@yahoo.com,male,white,44,Adults,Mpumalanga,@Royal17,Channel O,2016-03-20 10:49:00.000000,Morning,36
+600435,Loyd,Crotty,Loyd491@yahoo.com,male,black,36,Adults,Western Cape,@Loyd49,Boomerang,2016-01-08 05:38:00.000000,Morning,150
+600446,Robby,Mcculloch,Robby164@abcmail.com,male,black,36,Adults,Eastern Cape,@Robby16,Supersport Live Events,2016-01-06 10:07:00.000000,Morning,30
+600667,Carter,Pascarella,Carter32@gmail.com,male,coloured,32,Young Adults,Western Cape,@Carter3,Supersport Live Events,2016-01-09 18:21:00.000000,Evening,2
+600682,Eli,Mcclaine,Eli292@gmail.com,male,black,31,Young Adults,Kwazulu Natal,@Eli29,SuperSport Blitz,2016-01-06 12:11:00.000000,Afternoon,20
+600713,Chas,Mccown,Chas351@yahoo.com,male,black,31,Young Adults,Kwazulu Natal,@Chas35,Channel O,2016-01-13 14:27:00.000000,Afternoon,27
+600911,Kip,Hoadley,Kip145@mailxyz.com,male,black,28,Young Adults,Eastern Cape,@Kip14,Vuzu,2016-01-10 16:30:00.000000,Afternoon,36
+600984,Robby,Lavoie,Robby163@mail.com,male,black,27,Young Adults,Mpumalanga,@Robby16,Trace TV,2016-01-06 15:37:00.000000,Afternoon,159
+601019,Stacy,Hoadley,Stacy273@mail.com,male,indian_asian,26,Young Adults,Eastern Cape,@Stacy27,Vuzu,2016-01-02 01:23:00.000000,Morning,11
+601098,Wilburn,Pool,Wilburn304@abcmail.com,male,black,25,Young Adults,Gauteng,@Wilburn30,Vuzu,2016-01-07 06:59:00.000000,Morning,78
+601176,Filiberto,Pool,Filiberto43@mail.com,male,white,23,Young Adults,Mpumalanga,@Filiberto4,Boomerang,2016-01-02 17:26:00.000000,Afternoon,13
+601178,Tiffani,Pilot,Tiffani93@mail.com,female,black,23,Young Adults,Free State,@Tiffani9,Africa Magic,2016-01-05 10:26:00.000000,Morning,17
+601422,Seema,Fudge,Seema462@gmail.com,female,other,10,Kids,Western Cape,@Seema46,Supersport Live Events,2016-01-09 15:41:00.000000,Afternoon,2388
+603546,Yong,Bilyeu,Yong482@gmail.com,male,None,51,Seniors,Gauteng,@Yong48,CNN,2016-01-06 15:38:00.000000,Afternoon,132
+603558,Markus,Crotty,Markus193@mail.com,male,black,50,Adults,Gauteng,@Markus19,Supersport Live Events,2016-01-08 17:46:00.000000,Afternoon,126
+603910,Chas,Sytsma,Chas353@mail.com,male,black,38,Adults,Gauteng,@Chas35,M-Net,2016-01-07 10:30:00.000000,Morning,21
+604047,Art,Jacox,Art404@abcmail.com,male,black,35,Young Adults,Kwazulu Natal,@Art40,Channel O,2016-01-07 18:43:00.000000,Evening,573
+604198,Claud,Langenfeld,Claud344@abcmail.com,male,other,32,Young Adults,Western Cape,@Claud34,SawSee,2016-01-23 19:48:00.000000,Evening,151
+604372,Jared,Roquemore,Jared501@yahoo.com,male,black,29,Young Adults,Gauteng,@Jared50,Trace TV,2016-01-06 18:40:00.000000,Evening,744
+604430,Haywood,Sytsma,Haywood92@gmail.com,male,white,28,Young Adults,Eastern Cape,@Haywood9,Trace TV,2016-01-02 05:47:00.000000,Morning,798
+604596,Earl,Singer,Earl421@yahoo.com,male,white,25,Young Adults,Kwazulu Natal,@Earl42,Trace TV,2016-01-03 11:22:00.000000,Morning,120
+604764,Brendan,Vital,Brendan455@mailxyz.com,male,black,21,Young Adults,Eastern Cape,@Brendan45,SawSee,2016-01-07 12:49:00.000000,Afternoon,56
+606205,None,None,Luanna331@yahoo.com,None,None,0,Kids,None,None,Supersport Live Events,2016-01-08 18:31:00.000000,Evening,4
+607481,Yong,Bilyeu,Yong485@mailxyz.com,male,black,36,Adults,Kwazulu Natal,@Yong48,Africa Magic,2016-01-02 13:13:00.000000,Afternoon,49
+607730,Lane,Zweifel,Lane111@yahoo.com,male,black,31,Young Adults,Gauteng,@Lane11,Channel O,2016-01-06 06:33:00.000000,Morning,597
+609311,None,None,Anette371@yahoo.com,None,None,0,Kids,None,None,Africa Magic,2016-01-19 23:38:00.000000,Night,662
+610413,Earline,Zweifel,Earline323@mail.com,female,black,64,Seniors,Eastern Cape,@Earline32,Trace TV,2016-01-13 20:19:00.000000,Evening,2667
+610483,Jacinto,Mccollum,Jacinto253@mail.com,male,None,52,Seniors,Western Cape,@Jacinto25,M-Net,2016-01-08 20:14:00.000000,Evening,352
+611188,Lucas,Mccollum,Lucas231@yahoo.com,male,black,32,Young Adults,Gauteng,@Lucas23,Channel O,2016-01-18 03:19:00.000000,Morning,267
+611190,Abel,Woolard,Abel184@abcmail.com,male,black,32,Young Adults,Gauteng,@Abel18,E! Entertainment,2016-01-12 20:06:00.000000,Evening,20
+611337,Loyd,Mcculloch,Loyd491@yahoo.com,male,coloured,30,Young Adults,Gauteng,@Loyd49,Supersport Live Events,2016-03-06 13:53:00.000000,Afternoon,36
+611535,Efren,Woolard,Efren134@abcmail.com,male,indian_asian,27,Young Adults,Gauteng,@Efren13,SuperSport Blitz,2016-01-13 18:36:00.000000,Evening,0
+611645,Chas,Crotty,Chas351@yahoo.com,male,black,25,Young Adults,Mpumalanga,@Chas35,Channel O,2016-01-02 23:58:00.000000,Night,300
+611923,Kyle,Pilot,Kyle62@gmail.com,male,indian_asian,18,Young Adults,North West,@Kyle6,DStv Events 1,2016-01-20 13:01:00.000000,Afternoon,15
+614114,Irving,Langenfeld,Irving54@abcmail.com,male,black,55,Seniors,Gauteng,@Irving5,Trace TV,2016-01-01 12:16:00.000000,Afternoon,42
+614417,Shane,Condie,Shane23@mail.com,male,white,39,Adults,Gauteng,@Shane2,M-Net,2016-01-10 19:30:00.000000,Evening,52
+614603,Roxane,Lavoie,Roxane65@mailxyz.com,female,black,34,Young Adults,Gauteng,@Roxane6,Trace TV,2016-01-06 14:49:00.000000,Afternoon,738
+614652,Michel,Sieren,Michel205@mailxyz.com,male,white,33,Young Adults,Mpumalanga,@Michel20,Supersport Live Events,2016-01-19 03:38:00.000000,Morning,192
+615057,Anette,Leicht,Anette341@yahoo.com,female,black,25,Young Adults,Limpopo,@Anette34,Channel O,2016-01-10 07:34:00.000000,Morning,852
+615122,Loyd,Tatham,Loyd495@mailxyz.com,male,black,24,Young Adults,Mpumalanga,@Loyd49,Supersport Live Events,2016-01-10 14:01:00.000000,Afternoon,40
+615496,None,None,Bess372@gmail.com,None,None,0,Kids,None,None,MK,2016-01-20 19:10:00.000000,Evening,361
+617535,Stefan,Reisinger,Stefan464@abcmail.com,male,indian_asian,40,Adults,Gauteng,@Stefan46,Africa Magic,2016-01-11 20:08:00.000000,Evening,11
+617547,Royal,Beville,Royal175@mailxyz.com,male,black,39,Adults,Gauteng,@Royal17,Channel O,2016-01-05 10:06:00.000000,Morning,492
+617576,Haywood,Roquemore,Haywood95@mailxyz.com,male,white,39,Adults,Western Cape,@Haywood9,Vuzu,2016-01-10 17:36:00.000000,Afternoon,114
+617871,Donald,Paradis,Donald223@mail.com,male,black,32,Young Adults,North West,@Donald22,Trace TV,2016-01-11 18:29:00.000000,Evening,84
+617961,Robby,Mosser,Robby165@mailxyz.com,male,indian_asian,30,Young Adults,Mpumalanga,@Robby16,Boomerang,2016-01-31 22:06:00.000000,Evening,551
+618016,Stacy,Shkreli,Stacy275@mailxyz.com,male,None,29,Young Adults,Gauteng,@Stacy27,Cartoon Network,2016-01-10 09:24:00.000000,Morning,1000
+618028,Kip,Tatham,Kip143@mail.com,male,black,29,Young Adults,Kwazulu Natal,@Kip14,SuperSport Blitz,2016-01-11 11:41:00.000000,Morning,72
+620473,Dion,Marek,Dion331@yahoo.com,male,coloured,53,Seniors,Western Cape,@Dion33,Supersport Live Events,2016-01-12 20:40:00.000000,Evening,278
+620816,Valentine,Leicht,Valentine472@gmail.com,male,white,39,Adults,Gauteng,@Valentine47,Supersport Live Events,2016-01-12 14:57:00.000000,Afternoon,32
+621148,Eli,Arrieta,Eli293@mail.com,male,black,32,Young Adults,North West,@Eli29,Channel O,2016-01-12 10:41:00.000000,Morning,195
+621261,Hyman,Pilot,Hyman81@yahoo.com,male,black,30,Young Adults,North West,@Hyman8,Africa Magic,2016-01-08 10:32:00.000000,Morning,19
+621328,Stacy,Nicholls,Stacy272@gmail.com,male,None,29,Young Adults,Western Cape,@Stacy27,DStv Events 1,2016-01-13 20:02:00.000000,Evening,95
+621470,Shane,Gettys,Shane24@abcmail.com,male,white,26,Young Adults,Western Cape,@Shane2,SuperSport Blitz,2016-01-22 13:45:00.000000,Afternoon,328
+621521,Lucas,Hier,Lucas234@abcmail.com,male,black,25,Young Adults,Gauteng,@Lucas23,Trace TV,2016-01-12 12:07:00.000000,Afternoon,66
+621524,Donald,Arrieta,Donald225@mailxyz.com,male,white,25,Young Adults,Gauteng,@Donald22,SawSee,2016-01-16 09:55:00.000000,Morning,46
+621621,Jared,Pool,Jared504@abcmail.com,male,black,23,Young Adults,Gauteng,@Jared50,SawSee,2016-01-17 15:21:00.000000,Afternoon,28
+621695,Alecia,Roquemore,Alecia53@mail.com,female,None,20,Young Adults,Western Cape,@Alecia5,SuperSport Blitz,2016-01-13 09:02:00.000000,Morning,8
+623340,Wilton,Bilyeu,Wilton415@mailxyz.com,male,None,53,Seniors,Gauteng,@Wilton41,Supersport Live Events,2016-01-15 18:26:00.000000,Evening,138
+623488,Jacinto,Bilyeu,Jacinto254@abcmail.com,male,coloured,43,Adults,Western Cape,@Jacinto25,E! Entertainment,2016-01-13 11:33:00.000000,Morning,932
+623564,Claud,Crotty,Claud345@mailxyz.com,male,black,41,Adults,Gauteng,@Claud34,Channel O,2016-01-14 15:54:00.000000,Afternoon,2829
+623681,Len,Mccollum,Len445@mailxyz.com,male,coloured,37,Adults,Eastern Cape,@Len44,Cartoon Network,2016-01-21 22:21:00.000000,Evening,141
+623774,Hugh,Langenfeld,Hugh12@gmail.com,male,black,35,Young Adults,Eastern Cape,@Hugh1,SuperSport Blitz,2016-01-17 07:59:00.000000,Morning,424
+624208,Brendan,Langenfeld,Brendan452@gmail.com,male,None,26,Young Adults,Kwazulu Natal,@Brendan45,Supersport Live Events,2016-01-12 13:16:00.000000,Afternoon,6
+624257,Eli,Reisinger,Eli295@mailxyz.com,male,black,25,Young Adults,Gauteng,@Eli29,Supersport Live Events,2016-01-09 15:36:00.000000,Afternoon,0
+624424,Irving,Creager,Irving51@yahoo.com,male,indian_asian,21,Young Adults,Kwazulu Natal,@Irving5,Supersport Live Events,2016-01-14 22:01:00.000000,Evening,78
+625936,Raymundo,Zweifel,Raymundo431@yahoo.com,male,None,56,Seniors,Gauteng,@Raymundo43,Supersport Live Events,2016-01-14 09:13:00.000000,Morning,94
+626053,Robby,Borelli,Robby164@abcmail.com,male,black,47,Adults,Gauteng,@Robby16,SuperSport Blitz,2016-01-14 12:57:00.000000,Afternoon,1248
+626697,Nakita,Pool,Nakita285@mailxyz.com,female,black,31,Young Adults,Gauteng,@Nakita28,Africa Magic,2016-01-14 11:43:00.000000,Morning,42
+626745,Romeo,Mccollum,Romeo372@gmail.com,male,black,30,Young Adults,Limpopo,@Romeo37,Boomerang,2016-01-13 09:05:00.000000,Morning,876
+626750,Royal,Mccown,Royal171@yahoo.com,male,coloured,30,Young Adults,Western Cape,@Royal17,Supersport Live Events,2016-01-22 16:04:00.000000,Afternoon,344
+626973,Brendan,Mina,Brendan451@yahoo.com,male,black,26,Young Adults,Free State,@Brendan45,Africa Magic,2016-01-26 15:31:00.000000,Afternoon,70
+627027,Kip,Bilyeu,Kip143@mail.com,male,indian_asian,25,Young Adults,Kwazulu Natal,@Kip14,Cartoon Network,2016-03-25 17:43:00.000000,Afternoon,71
+627133,Robby,Tancredi,Robby163@mail.com,male,white,23,Young Adults,Gauteng,@Robby16,Cartoon Network,2016-01-14 08:40:00.000000,Morning,46
+627170,Earl,Creager,Earl425@mailxyz.com,male,black,22,Young Adults,Limpopo,@Earl42,Africa Magic,2016-01-10 12:11:00.000000,Afternoon,30
+629727,Raymundo,Martello,Raymundo433@mail.com,male,black,42,Adults,Gauteng,@Raymundo43,SuperSport Blitz,2016-01-15 07:47:00.000000,Morning,8
+629932,Stefan,Styer,Stefan464@abcmail.com,male,white,39,Adults,Eastern Cape,@Stefan46,Cartoon Network,2016-01-15 01:11:00.000000,Morning,2
+630091,Kyle,Luthy,Kyle63@mail.com,male,black,37,Adults,Western Cape,@Kyle6,CNN,2016-01-13 22:53:00.000000,Evening,48
+630358,Anette,Leicht,Anette371@yahoo.com,female,black,34,Young Adults,Western Cape,@Anette37,Africa Magic,2016-01-12 10:35:00.000000,Morning,1291
+630547,Sharri,Tatham,Sharri362@gmail.com,female,white,32,Young Adults,Gauteng,@Sharri36,Cartoon Network,2016-01-14 18:43:00.000000,Evening,33
+630977,Stacy,Wigfall,Stacy274@abcmail.com,male,coloured,28,Young Adults,Gauteng,@Stacy27,Trace TV,2016-01-16 09:52:00.000000,Morning,15
+630995,Bernardo,Styer,Bernardo322@gmail.com,male,black,27,Young Adults,North West,@Bernardo32,SuperSport Blitz,2016-01-13 09:15:00.000000,Morning,10
+631533,Haywood,Tancredi,Haywood94@abcmail.com,male,black,21,Young Adults,Gauteng,@Haywood9,SuperSport Blitz,2016-01-15 21:19:00.000000,Evening,310
+631602,Wilburn,Creager,Wilburn304@abcmail.com,male,black,19,Young Adults,Gauteng,@Wilburn30,SawSee,2016-01-15 12:36:00.000000,Afternoon,37
+635874,Brendan,Luthy,Brendan452@gmail.com,male,black,42,Adults,Kwazulu Natal,@Brendan45,SuperSport Blitz,2016-01-19 21:27:00.000000,Evening,982
+636140,Raymundo,Pascarella,Raymundo431@yahoo.com,male,None,37,Adults,Western Cape,@Raymundo43,Boomerang,2016-01-26 14:09:00.000000,Afternoon,448
+636464,Wilton,Restivo,Wilton411@yahoo.com,male,black,32,Young Adults,Gauteng,@Wilton41,Africa Magic,2016-01-28 08:26:00.000000,Morning,104
+636845,Trudie,Restivo,Trudie52@gmail.com,female,black,27,Young Adults,Gauteng,@Trudie5,Trace TV,2016-01-16 20:09:00.000000,Evening,4221
+636896,Brendan,Deblois,Brendan452@gmail.com,male,indian_asian,26,Young Adults,Kwazulu Natal,@Brendan45,Boomerang,2016-01-12 10:40:00.000000,Morning,34
+638935,None,None,Lesli225@mailxyz.com,None,None,0,Kids,None,None,Cartoon Network,2016-01-21 12:47:00.000000,Afternoon,301
+641005,Hollis,Singer,Hollis383@mail.com,male,None,35,Young Adults,Mpumalanga,@Hollis38,Cartoon Network,2016-01-05 17:36:00.000000,Afternoon,0
+641172,Lucas,Nicholls,Lucas232@gmail.com,male,black,32,Young Adults,Limpopo,@Lucas23,Channel O,2016-01-01 11:44:00.000000,Morning,117
+641340,Loris,Hier,Loris423@mail.com,female,black,29,Young Adults,Eastern Cape,@Loris42,Trace TV,2016-01-24 15:14:00.000000,Afternoon,12
+641456,Lane,Mcculloch,Lane111@yahoo.com,male,black,27,Young Adults,Mpumalanga,@Lane11,Africa Magic,2016-01-17 15:57:00.000000,Afternoon,25
+641522,Carter,Shkreli,Carter34@abcmail.com,male,indian_asian,26,Young Adults,Gauteng,@Carter3,ICC Cricket World Cup 2011,2016-03-30 08:51:00.000000,Morning,0
+641647,Irving,Pool,Irving51@yahoo.com,male,black,24,Young Adults,Gauteng,@Irving5,Boomerang,2016-01-14 10:06:00.000000,Morning,207
+641735,Art,Sytsma,Art403@mail.com,male,black,22,Young Adults,Gauteng,@Art40,E! Entertainment,2016-01-31 08:29:00.000000,Morning,112
+641737,Markus,Arrieta,Markus194@abcmail.com,male,indian_asian,22,Young Adults,Kwazulu Natal,@Markus19,Cartoon Network,2016-01-14 12:45:00.000000,Afternoon,20
+642504,None,None,Sharri361@yahoo.com,None,None,0,Kids,None,None,DStv Events 1,2016-03-30 06:07:00.000000,Morning,85
+650987,Emilie,Deblois,Emilie415@mailxyz.com,female,black,44,Adults,Free State,@Emilie41,Boomerang,2016-01-19 18:37:00.000000,Evening,238
+652906,Wilton,Hier,Wilton413@mail.com,male,coloured,43,Adults,Western Cape,@Wilton41,DStv Events 1,2016-01-19 07:07:00.000000,Morning,55
+663218,Garry,Restivo,Garry284@abcmail.com,male,white,36,Adults,Free State,@Garry28,Supersport Live Events,2016-01-19 06:01:00.000000,Morning,184
+667632,Dion,Zweifel,Dion331@yahoo.com,male,None,34,Young Adults,Western Cape,@Dion33,Cartoon Network,2016-01-16 18:25:00.000000,Evening,281
+695996,Zetta,Gettys,Zetta213@mail.com,female,black,24,Young Adults,Gauteng,@Zetta21,Africa Magic,2016-01-19 15:35:00.000000,Afternoon,2
+703886,Wilburn,Pascarella,Wilburn304@abcmail.com,male,indian_asian,20,Young Adults,Mpumalanga,@Wilburn30,ICC Cricket World Cup 2011,2016-03-26 14:57:00.000000,Afternoon,74
+712592,None,None,Anette442@gmail.com,None,None,0,Kids,None,None,M-Net,2016-03-01 03:55:00.000000,Morning,30
+719331,Eli,Mccollum,Eli293@mail.com,male,white,42,Adults,Gauteng,@Eli29,CNN,2016-01-17 11:22:00.000000,Morning,62
+719575,Jacinto,Bilyeu,Jacinto253@mail.com,male,coloured,38,Adults,Western Cape,@Jacinto25,Channel O,2016-01-16 21:32:00.000000,Evening,273
+720294,Robby,Pilot,Robby164@abcmail.com,male,black,29,Young Adults,Mpumalanga,@Robby16,DStv Events 1,2016-01-16 10:33:00.000000,Morning,30
+720305,Shelley,Reisinger,Shelley221@yahoo.com,female,black,29,Young Adults,Gauteng,@Shelley22,Trace TV,2016-01-18 23:28:00.000000,Night,264
+720398,Emilie,Deblois,Emilie504@abcmail.com,female,coloured,28,Young Adults,Gauteng,@Emilie50,DStv Events 1,2016-01-20 17:22:00.000000,Afternoon,65
+720646,Carter,Lavoie,Carter32@gmail.com,male,white,25,Young Adults,North West,@Carter3,Supersport Live Events,2016-01-19 10:23:00.000000,Morning,16
+720995,Emilie,Deblois,Emilie234@abcmail.com,female,black,18,Young Adults,Gauteng,@Emilie23,Trace TV,2016-01-16 09:23:00.000000,Morning,84
+722869,None,None,Luann184@abcmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-03-01 20:21:00.000000,Evening,320
+722988,None,None,Luann54@abcmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-01-20 20:09:00.000000,Evening,42
+723671,Jared,Mcclaine,Jared502@gmail.com,male,black,32,Young Adults,Gauteng,@Jared50,Supersport Live Events,2016-01-19 19:32:00.000000,Evening,58
+724179,Desirae,Luthy,Desirae292@gmail.com,female,black,21,Young Adults,Gauteng,@Desirae29,Channel O,2016-01-20 18:49:00.000000,Evening,651
+727203,Claud,Singer,Claud341@yahoo.com,male,None,26,Young Adults,Western Cape,@Claud34,Boomerang,2016-01-18 17:02:00.000000,Afternoon,2131
+729345,Wilburn,Mcclaine,Wilburn305@mailxyz.com,male,white,44,Adults,Gauteng,@Wilburn30,Boomerang,2016-03-20 04:41:00.000000,Morning,96
+729427,Alecia,Roquemore,Alecia403@mail.com,female,black,42,Adults,Gauteng,@Alecia40,Africa Magic,2016-01-23 05:59:00.000000,Morning,75
+729468,Gretta,Mosser,Gretta492@gmail.com,female,black,41,Adults,Eastern Cape,@Gretta49,Trace TV,2016-01-23 13:35:00.000000,Afternoon,1035
+729721,Filiberto,Mosser,Filiberto44@abcmail.com,male,black,35,Young Adults,Mpumalanga,@Filiberto4,Cartoon Network,2016-01-17 10:29:00.000000,Morning,55
+730056,Claud,Woolard,Claud344@abcmail.com,male,None,29,Young Adults,Gauteng,@Claud34,Supersport Live Events,2016-01-22 00:15:00.000000,Morning,28
+730254,Stephen,Paradis,Stephen151@yahoo.com,male,black,26,Young Adults,Gauteng,@Stephen15,Channel O,2016-01-21 09:02:00.000000,Morning,7188
+730294,Markus,Hoadley,Markus193@mail.com,male,black,25,Young Adults,Eastern Cape,@Markus19,Trace TV,2016-01-22 12:08:00.000000,Afternoon,4431
+730607,Jacinto,Lavoie,Jacinto251@yahoo.com,male,black,16,Teens,Gauteng,@Jacinto25,Channel O,2016-01-24 09:56:00.000000,Morning,573
+732996,Irving,Vital,Irving51@yahoo.com,male,indian_asian,41,Adults,Gauteng,@Irving5,Supersport Live Events,2016-01-20 08:53:00.000000,Morning,6
+733281,Bret,Mcclaine,Bret313@mail.com,male,black,35,Young Adults,Gauteng,@Bret31,Trace TV,2016-01-26 16:09:00.000000,Afternoon,6
+733347,Lucas,Creager,Lucas234@abcmail.com,male,None,34,Young Adults,North West,@Lucas23,Channel O,2016-01-23 17:29:00.000000,Afternoon,39
+733756,Winona,Wigfall,Winona414@abcmail.com,female,indian_asian,27,Young Adults,Kwazulu Natal,@Winona41,Boomerang,2016-01-23 16:49:00.000000,Afternoon,4
+733939,Cody,Mastrangelo,Cody121@yahoo.com,male,white,24,Young Adults,Mpumalanga,@Cody12,Channel O,2016-01-17 11:32:00.000000,Morning,9
+736517,Garry,Reisinger,Garry283@mail.com,male,black,39,Adults,Mpumalanga,@Garry28,Africa Magic,2016-01-24 08:15:00.000000,Morning,380
+737176,Robby,Mina,Robby164@abcmail.com,male,black,25,Young Adults,Limpopo,@Robby16,Channel O,2016-01-27 18:17:00.000000,Evening,69
+737179,Earl,Curran,Earl425@mailxyz.com,male,None,25,Young Adults,Gauteng,@Earl42,Trace TV,2016-01-24 11:40:00.000000,Morning,93
+738944,Charlie,Pascarella,Charlie364@abcmail.com,male,white,54,Seniors,Gauteng,@Charlie36,ICC Cricket World Cup 2011,2016-03-30 11:00:00.000000,Morning,148
+738991,Irving,Nicholls,Irving53@mail.com,male,black,50,Adults,Mpumalanga,@Irving5,Africa Magic,2016-01-23 10:26:00.000000,Morning,1691
+739194,Shane,Hier,Shane22@gmail.com,male,white,41,Adults,Gauteng,@Shane2,Boomerang,2016-01-21 00:38:00.000000,Morning,290
+739396,Earl,Mcculloch,Earl424@abcmail.com,male,coloured,36,Adults,Western Cape,@Earl42,SawSee,2016-02-17 14:10:00.000000,Afternoon,238
+739893,Yong,Mccollum,Yong481@yahoo.com,male,black,26,Young Adults,Limpopo,@Yong48,Africa Magic,2016-01-15 20:05:00.000000,Evening,51
+741931,Samuel,Pool,Samuel262@gmail.com,male,None,45,Adults,Gauteng,@Samuel26,Boomerang,2016-01-24 13:10:00.000000,Afternoon,122
+742848,Kip,Curran,Kip144@abcmail.com,male,black,25,Young Adults,Eastern Cape,@Kip14,SuperSport Blitz,2016-02-09 19:10:00.000000,Evening,40
+745315,Lloyd,Condie,Lloyd73@mail.com,male,white,31,Young Adults,Limpopo,@Lloyd7,SuperSport Blitz,2016-01-16 17:16:00.000000,Afternoon,180
+745547,Art,Gettys,Art401@yahoo.com,male,white,26,Young Adults,North West,@Art40,CNN,2016-01-27 17:15:00.000000,Afternoon,3
+747185,Michel,Sytsma,Michel204@abcmail.com,male,white,40,Adults,Gauteng,@Michel20,Vuzu,2016-01-16 13:19:00.000000,Afternoon,9
+747259,Shane,Hier,Shane21@yahoo.com,male,white,38,Adults,Gauteng,@Shane2,Channel O,2016-01-26 22:20:00.000000,Evening,810
+747690,Katharina,Condie,Katharina203@mail.com,female,black,29,Young Adults,Gauteng,@Katharina20,Trace TV,2016-01-16 18:49:00.000000,Evening,15
+749945,Stacy,Restivo,Stacy271@yahoo.com,male,coloured,55,Seniors,Western Cape,@Stacy27,Trace TV,2016-01-28 21:27:00.000000,Evening,69
+750489,Garry,Roquemore,Garry285@mailxyz.com,male,black,36,Adults,Mpumalanga,@Garry28,Supersport Live Events,2016-01-29 19:26:00.000000,Evening,126
+750715,Filiberto,Beville,Filiberto42@gmail.com,male,coloured,32,Young Adults,Western Cape,@Filiberto4,Africa Magic,2016-01-29 19:30:00.000000,Evening,2
+751018,Cody,Leicht,Cody122@gmail.com,male,white,27,Young Adults,North West,@Cody12,E! Entertainment,2016-01-28 16:57:00.000000,Afternoon,120
+751072,Garry,Hier,Garry285@mailxyz.com,male,indian_asian,26,Young Adults,Free State,@Garry28,SuperSport Blitz,2016-01-28 17:14:00.000000,Afternoon,92
+754765,Hugh,Pool,Hugh14@abcmail.com,male,black,51,Seniors,Eastern Cape,@Hugh1,Boomerang,2016-01-30 07:38:00.000000,Morning,12
+755058,Cory,Styer,Cory101@yahoo.com,male,white,40,Adults,Eastern Cape,@Cory10,Cartoon Network,2016-01-23 07:59:00.000000,Morning,96
+755814,Haywood,Pilot,Haywood91@yahoo.com,male,black,25,Young Adults,Gauteng,@Haywood9,Trace TV,2016-01-17 06:18:00.000000,Morning,6
+758214,Kip,Reisinger,Kip145@mailxyz.com,male,black,113,Seniors,Kwazulu Natal,@Kip14,Cartoon Network,2016-01-31 07:29:00.000000,Morning,111
+758272,Michel,Nicholls,Michel203@mail.com,male,black,53,Seniors,Mpumalanga,@Michel20,Supersport Live Events,2016-01-26 19:24:00.000000,Evening,14
+758306,Hyman,Zweifel,Hyman84@abcmail.com,male,white,50,Adults,Free State,@Hyman8,kykNET,2016-01-31 18:18:00.000000,Evening,315
+758931,Bernardo,Biggers,Bernardo324@abcmail.com,male,black,30,Young Adults,Gauteng,@Bernardo32,DStv Events 1,2016-01-14 07:11:00.000000,Morning,105
+760529,Alecia,Roquemore,Alecia21@yahoo.com,female,indian_asian,48,Adults,Mpumalanga,@Alecia2,Trace TV,2016-03-03 20:49:00.000000,Evening,57
+760937,Len,Mosser,Len443@mail.com,male,black,36,Adults,Gauteng,@Len44,Channel O,2016-02-12 20:07:00.000000,Evening,627
+761775,Stacy,Mcculloch,Stacy271@yahoo.com,male,None,24,Young Adults,Gauteng,@Stacy27,SuperSport Blitz,2016-01-25 15:59:00.000000,Afternoon,74
+763446,Romeo,Pool,Romeo371@yahoo.com,male,black,49,Adults,Free State,@Romeo37,Supersport Live Events,2016-02-09 20:27:00.000000,Evening,40
+763525,Cory,Holt,Cory102@gmail.com,male,black,37,Adults,Gauteng,@Cory10,SuperSport Blitz,2016-03-16 16:39:00.000000,Afternoon,228
+763881,Abel,Paradis,Abel182@gmail.com,male,white,24,Young Adults,Kwazulu Natal,@Abel18,E! Entertainment,2016-02-03 06:25:00.000000,Morning,242
+764296,Royal,Pascarella,Royal175@mailxyz.com,male,coloured,23,Young Adults,Western Cape,@Royal17,Trace TV,2016-02-01 20:10:00.000000,Evening,0
+764342,Robby,Nicholls,Robby162@gmail.com,male,white,38,Adults,Eastern Cape,@Robby16,SuperSport Blitz,2016-02-02 06:11:00.000000,Morning,228
+764355,Lloyd,Mccown,Lloyd73@mail.com,male,white,24,Young Adults,Gauteng,@Lloyd7,Channel O,2016-01-22 14:42:00.000000,Afternoon,9
+764396,Hyman,Pilot,Hyman82@gmail.com,male,white,52,Seniors,Eastern Cape,@Hyman8,Cartoon Network,2016-01-18 05:37:00.000000,Morning,18
+764429,Lucas,Pascarella,Lucas232@gmail.com,male,white,22,Young Adults,Western Cape,@Lucas23,M-Net,2016-02-27 19:44:00.000000,Evening,151
+764451,Epifania,Crotty,Epifania353@mail.com,female,indian_asian,27,Young Adults,Gauteng,@Epifania35,Trace TV,2016-01-11 13:11:00.000000,Afternoon,186
+764468,Earl,Pool,Earl421@yahoo.com,male,black,34,Young Adults,Gauteng,@Earl42,Channel O,2016-02-02 06:59:00.000000,Morning,129
+764531,Emerson,Caves,Emerson245@mailxyz.com,male,coloured,46,Adults,Limpopo,@Emerson24,E! Entertainment,2016-01-19 06:38:00.000000,Morning,1126
+764656,Stefan,Fudge,Stefan463@mail.com,male,indian_asian,34,Young Adults,Western Cape,@Stefan46,Supersport Live Events,2016-01-05 09:03:00.000000,Morning,1356
+764773,Cory,Luthy,Cory102@gmail.com,male,coloured,24,Young Adults,Gauteng,@Cory10,Africa Magic,2016-01-20 16:40:00.000000,Afternoon,11
+764800,Samuel,Sieren,Samuel265@mailxyz.com,male,black,28,Young Adults,Gauteng,@Samuel26,DStv Events 1,2016-01-21 19:30:00.000000,Evening,730
+764853,Hyman,Pilot,Hyman82@gmail.com,male,white,25,Young Adults,Gauteng,@Hyman8,E! Entertainment,2016-02-02 16:41:00.000000,Afternoon,6
+764912,Len,Paradis,Len441@yahoo.com,male,None,22,Young Adults,Kwazulu Natal,@Len44,Cartoon Network,2016-01-14 12:08:00.000000,Afternoon,208
+764929,Cody,Condie,Cody121@yahoo.com,male,black,34,Young Adults,Mpumalanga,@Cody12,Channel O,2016-02-02 10:05:00.000000,Morning,84
+764961,Markus,Mastrangelo,Markus191@yahoo.com,male,black,25,Young Adults,Gauteng,@Markus19,Supersport Live Events,2016-01-29 16:59:00.000000,Afternoon,34
+764989,Valentine,Paradis,Valentine471@yahoo.com,male,black,31,Young Adults,North West,@Valentine47,Channel O,2016-01-06 18:37:00.000000,Evening,288
+764993,Markus,Pilot,Markus195@mailxyz.com,male,None,43,Adults,Gauteng,@Markus19,CNN,2016-01-28 09:32:00.000000,Morning,135
+764997,Hollis,Mastrangelo,Hollis383@mail.com,male,black,31,Young Adults,Mpumalanga,@Hollis38,Trace TV,2016-01-16 07:14:00.000000,Morning,471
+765012,Samuel,Holt,Samuel261@yahoo.com,male,black,33,Young Adults,Gauteng,@Samuel26,ICC Cricket World Cup 2011,2016-03-25 15:11:00.000000,Afternoon,548
+765182,Loyd,Sytsma,Loyd492@gmail.com,male,black,35,Young Adults,Western Cape,@Loyd49,Trace TV,2016-01-08 21:40:00.000000,Evening,1260
+765264,Dia,Arrieta,Dia324@abcmail.com,female,black,23,Young Adults,Mpumalanga,@Dia32,Channel O,2016-01-23 19:56:00.000000,Evening,342
+765340,Shane,Leicht,Shane22@gmail.com,male,coloured,14,Teens,Gauteng,@Shane2,Cartoon Network,2016-01-25 08:48:00.000000,Morning,48
+765409,Claud,Beville,Claud344@abcmail.com,male,coloured,33,Young Adults,Gauteng,@Claud34,DStv Events 1,2016-03-07 07:10:00.000000,Morning,0
+765556,Shane,Mcclaine,Shane24@abcmail.com,male,black,34,Young Adults,Limpopo,@Shane2,Channel O,2016-01-30 11:36:00.000000,Morning,21
+765581,Stacy,Mina,Stacy274@abcmail.com,male,None,29,Young Adults,Mpumalanga,@Stacy27,E! Entertainment,2016-01-14 04:46:00.000000,Morning,262
+765595,Loyd,Caves,Loyd492@gmail.com,male,black,52,Seniors,Mpumalanga,@Loyd49,SuperSport Blitz,2016-01-16 05:34:00.000000,Morning,264
+765600,Abel,Singer,Abel183@mail.com,male,black,22,Young Adults,Gauteng,@Abel18,Cartoon Network,2016-01-15 21:21:00.000000,Evening,83
+765622,Cory,Borelli,Cory101@yahoo.com,male,black,32,Young Adults,North West,@Cory10,SawSee,2016-02-03 11:40:00.000000,Morning,136
+765640,Raymundo,Leicht,Raymundo432@gmail.com,male,indian_asian,36,Adults,Gauteng,@Raymundo43,SuperSport Blitz,2016-01-30 08:39:00.000000,Morning,124
+765679,Royal,Mina,Royal175@mailxyz.com,male,black,42,Adults,North West,@Royal17,Cartoon Network,2016-01-27 16:36:00.000000,Afternoon,80
+765684,Royal,Creager,Royal175@mailxyz.com,male,coloured,25,Young Adults,Gauteng,@Royal17,SuperSport Blitz,2016-01-23 14:12:00.000000,Afternoon,192
+765696,Bernardo,Mccown,Bernardo324@abcmail.com,male,coloured,41,Adults,Western Cape,@Bernardo32,SuperSport Blitz,2016-01-09 17:54:00.000000,Afternoon,314
+765734,Eula,Mccown,Eula25@mailxyz.com,female,black,31,Young Adults,Limpopo,@Eula2,Cartoon Network,2016-01-20 18:31:00.000000,Evening,724
+765767,Chas,Pascarella,Chas353@mail.com,male,white,23,Young Adults,Western Cape,@Chas35,Africa Magic,2016-01-15 13:51:00.000000,Afternoon,51
+765884,Loyd,Arrieta,Loyd494@abcmail.com,male,black,27,Young Adults,Gauteng,@Loyd49,Boomerang,2016-02-01 15:37:00.000000,Afternoon,62
+765885,Torrie,Mcclaine,Torrie91@yahoo.com,female,coloured,32,Young Adults,Eastern Cape,@Torrie9,Trace TV,2016-01-30 05:23:00.000000,Morning,159
+765950,Shandra,Mccollum,Shandra341@yahoo.com,female,black,40,Adults,Mpumalanga,@Shandra34,Boomerang,2016-02-17 16:55:00.000000,Afternoon,43
+766033,Stefan,Wigfall,Stefan464@abcmail.com,male,indian_asian,54,Seniors,Western Cape,@Stefan46,Trace TV,2016-01-24 13:47:00.000000,Afternoon,1962
+766115,Efren,Pascarella,Efren133@mail.com,male,black,34,Young Adults,Kwazulu Natal,@Efren13,Africa Magic,2016-01-07 16:54:00.000000,Afternoon,5
+766143,Raymundo,Caves,Raymundo432@gmail.com,male,coloured,29,Young Adults,Western Cape,@Raymundo43,Cartoon Network,2016-01-29 12:59:00.000000,Afternoon,394
+766872,Winona,Wigfall,Winona463@mail.com,female,black,49,Adults,North West,@Winona46,Africa Magic,2016-02-03 02:55:00.000000,Morning,24
+770213,Lucas,Holt,Lucas232@gmail.com,male,black,21,Young Adults,Gauteng,@Lucas23,E! Entertainment,2016-02-04 12:54:00.000000,Afternoon,180
+770770,Stephen,Zweifel,Stephen152@gmail.com,male,black,19,Young Adults,Western Cape,@Stephen15,SuperSport Blitz,2016-02-03 19:43:00.000000,Evening,394
+770963,None,None,Roxane52@gmail.com,None,None,0,Kids,None,None,ICC Cricket World Cup 2011,2016-02-25 09:28:00.000000,Morning,370
+771003,Romeo,Tancredi,Romeo372@gmail.com,male,coloured,31,Young Adults,Western Cape,@Romeo37,SawSee,2016-02-27 16:24:00.000000,Afternoon,42
+771048,Robby,Deblois,Robby162@gmail.com,male,None,19,Young Adults,Gauteng,@Robby16,SuperSport Blitz,2016-02-06 20:34:00.000000,Evening,514
+771123,None,None,Alecia173@mail.com,None,None,0,Kids,None,None,Channel O,2016-03-26 21:22:00.000000,Evening,147
+771147,Kyle,Mina,Kyle64@abcmail.com,male,white,28,Young Adults,Mpumalanga,@Kyle6,Boomerang,2016-02-06 10:58:00.000000,Morning,325
+771427,Len,Tatham,Len444@abcmail.com,male,coloured,38,Adults,Western Cape,@Len44,Wimbledon,2016-02-13 08:56:00.000000,Morning,16
+771597,Seema,Fudge,Seema413@mail.com,female,None,38,Adults,Gauteng,@Seema41,Supersport Live Events,2016-03-16 08:43:00.000000,Morning,24
+771611,Bernardo,Singer,Bernardo323@mail.com,male,indian_asian,44,Adults,Kwazulu Natal,@Bernardo32,Supersport Live Events,2016-02-05 18:08:00.000000,Evening,40
+771685,None,None,Earline135@mailxyz.com,None,None,0,Kids,None,None,Cartoon Network,2016-03-01 07:59:00.000000,Morning,76
+771703,Emerson,Arrieta,Emerson244@abcmail.com,male,white,55,Seniors,Kwazulu Natal,@Emerson24,E! Entertainment,2016-02-10 11:03:00.000000,Morning,1764
+771756,None,None,Minerva184@abcmail.com,None,None,0,Kids,None,None,Boomerang,2016-03-27 12:35:00.000000,Afternoon,257
+771772,Brendan,Martello,Brendan455@mailxyz.com,male,indian_asian,29,Young Adults,Gauteng,@Brendan45,Cartoon Network,2016-02-06 20:32:00.000000,Evening,128
+771778,Yong,Paradis,Yong484@abcmail.com,male,black,21,Young Adults,Eastern Cape,@Yong48,Supersport Live Events,2016-02-05 13:47:00.000000,Afternoon,252
+771783,Len,Pascarella,Len442@gmail.com,male,indian_asian,23,Young Adults,Gauteng,@Len44,SawSee,2016-01-30 21:43:00.000000,Evening,13
+771785,Kip,Martello,Kip141@yahoo.com,male,black,43,Adults,Gauteng,@Kip14,ICC Cricket World Cup 2011,2016-02-28 16:53:00.000000,Afternoon,46
+771791,Shane,Luthy,Shane24@abcmail.com,male,black,34,Young Adults,Gauteng,@Shane2,M-Net,2016-03-06 05:02:00.000000,Morning,103
+771793,Anette,Leicht,Anette143@mail.com,female,indian_asian,40,Adults,Western Cape,@Anette14,Trace TV,2016-02-12 00:38:00.000000,Morning,153
+771796,Jacinto,Mcclaine,Jacinto251@yahoo.com,male,coloured,35,Young Adults,Western Cape,@Jacinto25,Supersport Live Events,2016-03-26 17:00:00.000000,Afternoon,6278
+771797,Randy,Beville,Randy395@mailxyz.com,male,None,35,Young Adults,Gauteng,@Randy39,SuperSport Blitz,2016-02-03 13:31:00.000000,Afternoon,32
+771802,Valentine,Curran,Valentine475@mailxyz.com,male,coloured,43,Adults,Western Cape,@Valentine47,Supersport Live Events,2016-02-12 16:51:00.000000,Afternoon,4792
+771816,Garry,Fudge,Garry282@gmail.com,male,black,31,Young Adults,Gauteng,@Garry28,Cartoon Network,2016-03-01 06:27:00.000000,Morning,254
+771823,Kyle,Mastrangelo,Kyle61@yahoo.com,male,black,26,Young Adults,Western Cape,@Kyle6,Channel O,2016-02-06 11:10:00.000000,Morning,75
+771830,Michel,Tancredi,Michel203@mail.com,male,black,49,Adults,Gauteng,@Michel20,Trace TV,2016-01-01 14:43:00.000000,Afternoon,30
+771848,Yong,Shkreli,Yong483@mail.com,male,black,28,Young Adults,Gauteng,@Yong48,Supersport Live Events,2016-01-18 12:43:00.000000,Afternoon,86
+771849,Stephen,Leicht,Stephen152@gmail.com,male,None,55,Seniors,Gauteng,@Stephen15,Supersport Live Events,2016-02-06 15:00:00.000000,Afternoon,24
+771855,Rebekah,Paradis,Rebekah435@mailxyz.com,female,black,45,Adults,North West,@Rebekah43,Africa Magic,2016-02-19 01:15:00.000000,Morning,514
+771856,Charlie,Nicholls,Charlie364@abcmail.com,male,None,24,Young Adults,Kwazulu Natal,@Charlie36,Trace TV,2016-02-06 09:28:00.000000,Morning,126
+771858,Hugh,Mcculloch,Hugh14@abcmail.com,male,white,27,Young Adults,Gauteng,@Hugh1,Supersport Live Events,2016-03-05 11:37:00.000000,Morning,106
+771867,Brendan,Zweifel,Brendan451@yahoo.com,male,black,14,Teens,Gauteng,@Brendan45,SuperSport Blitz,2016-03-21 06:44:00.000000,Morning,1614
+771872,Lane,Tatham,Lane111@yahoo.com,male,coloured,25,Young Adults,Western Cape,@Lane11,Boomerang,2016-01-31 17:32:00.000000,Afternoon,1
+771876,Stacy,Gettys,Stacy271@yahoo.com,male,black,25,Young Adults,North West,@Stacy27,Cartoon Network,2016-02-06 14:08:00.000000,Afternoon,211
+771877,Emerson,Mina,Emerson241@yahoo.com,male,black,25,Young Adults,Northern Cape,@Emerson24,SawSee,2016-01-31 18:38:00.000000,Evening,838
+771881,Emerson,Reisinger,Emerson245@mailxyz.com,male,black,31,Young Adults,Gauteng,@Emerson24,Supersport Live Events,2016-03-20 15:52:00.000000,Afternoon,22
+771882,Emerson,Pascarella,Emerson244@abcmail.com,male,black,27,Young Adults,Gauteng,@Emerson24,Cartoon Network,2016-02-17 23:09:00.000000,Night,74
+771888,Donald,Curran,Donald223@mail.com,male,coloured,41,Adults,Eastern Cape,@Donald22,Channel O,2016-02-25 16:11:00.000000,Afternoon,81
+771889,Lane,Borelli,Lane115@mailxyz.com,male,black,46,Adults,Eastern Cape,@Lane11,Africa Magic,2016-01-21 14:52:00.000000,Afternoon,479
+771902,Romeo,Mastrangelo,Romeo372@gmail.com,male,black,24,Young Adults,Gauteng,@Romeo37,Africa Magic,2016-01-15 18:35:00.000000,Evening,71
+771903,Earl,Slane,Earl423@mail.com,male,None,28,Young Adults,Gauteng,@Earl42,Supersport Live Events,2016-03-27 15:12:00.000000,Afternoon,76
+771907,Robby,Martello,Robby164@abcmail.com,male,black,41,Adults,Kwazulu Natal,@Robby16,Trace TV,2016-02-09 17:45:00.000000,Afternoon,942
+771911,Dion,Condie,Dion332@gmail.com,male,black,25,Young Adults,North West,@Dion33,ICC Cricket World Cup 2011,2016-03-06 12:26:00.000000,Afternoon,606
+771924,Yolonda,Pascarella,Yolonda203@mail.com,female,black,31,Young Adults,Gauteng,@Yolonda20,Africa Magic,2016-02-09 09:55:00.000000,Morning,71
+771927,Lillie,Langenfeld,Lillie431@yahoo.com,female,None,36,Adults,Western Cape,@Lillie43,Cartoon Network,2016-01-30 16:39:00.000000,Afternoon,98
+771941,Charlie,Deblois,Charlie365@mailxyz.com,male,coloured,24,Young Adults,Western Cape,@Charlie36,DStv Events 1,2016-01-11 06:12:00.000000,Morning,205
+771945,Markus,Sieren,Markus192@gmail.com,male,black,32,Young Adults,Kwazulu Natal,@Markus19,SuperSport Blitz,2016-03-28 13:46:00.000000,Afternoon,580
+771959,Len,Tancredi,Len445@mailxyz.com,male,black,28,Young Adults,Western Cape,@Len44,Channel O,2016-02-04 15:45:00.000000,Afternoon,21
+771974,Michel,Mosser,Michel205@mailxyz.com,male,black,23,Young Adults,Eastern Cape,@Michel20,Channel O,2016-01-30 11:51:00.000000,Morning,489
+771978,Efren,Wigfall,Efren131@yahoo.com,male,black,23,Young Adults,Kwazulu Natal,@Efren13,Boomerang,2016-02-05 03:06:00.000000,Morning,31
+771985,Emilie,Deblois,Emilie12@gmail.com,female,black,23,Young Adults,Gauteng,@Emilie1,Africa Magic,2016-01-22 16:24:00.000000,Afternoon,660
+772000,Randy,Pascarella,Randy391@yahoo.com,male,black,39,Adults,Mpumalanga,@Randy39,Supersport Live Events,2016-01-24 19:00:00.000000,Evening,124
+772028,Shane,Arrieta,Shane22@gmail.com,male,black,30,Young Adults,North West,@Shane2,Boomerang,2016-01-30 20:36:00.000000,Evening,11
+772030,Charlie,Roquemore,Charlie363@mail.com,male,coloured,34,Young Adults,Western Cape,@Charlie36,Vuzu,2016-03-05 21:37:00.000000,Evening,42
+772034,Bret,Reisinger,Bret311@yahoo.com,male,indian_asian,38,Adults,Kwazulu Natal,@Bret31,Channel O,2016-02-01 11:39:00.000000,Morning,15
+772042,Iva,Styer,Iva435@mailxyz.com,female,white,31,Young Adults,Free State,@Iva43,E! Entertainment,2016-02-05 09:58:00.000000,Morning,82
+772052,Stephen,Beville,Stephen151@yahoo.com,male,coloured,32,Young Adults,Western Cape,@Stephen15,Supersport Live Events,2016-03-26 14:38:00.000000,Afternoon,2732
+772054,Earl,Jacox,Earl422@gmail.com,male,white,27,Young Adults,Western Cape,@Earl42,Supersport Live Events,2016-03-24 16:46:00.000000,Afternoon,244
+772068,Charlie,Vital,Charlie362@gmail.com,male,black,26,Young Adults,Kwazulu Natal,@Charlie36,Break in transmission,2016-03-01 19:44:00.000000,Evening,4
+772088,Yong,Mastrangelo,Yong483@mail.com,male,black,35,Young Adults,Gauteng,@Yong48,Africa Magic,2016-01-23 21:24:00.000000,Evening,369
+772091,Efren,Styer,Efren132@gmail.com,male,coloured,34,Young Adults,Gauteng,@Efren13,SuperSport Blitz,2016-01-30 05:39:00.000000,Morning,28
+772098,Garry,Caves,Garry285@mailxyz.com,male,white,54,Seniors,Western Cape,@Garry28,Supersport Live Events,2016-03-19 19:04:00.000000,Evening,1022
+772101,Stefan,Pascarella,Stefan462@gmail.com,male,coloured,41,Adults,Gauteng,@Stefan46,Africa Magic,2016-02-03 19:41:00.000000,Evening,39
+772102,Len,Fudge,Len445@mailxyz.com,male,coloured,60,Seniors,Western Cape,@Len44,Cartoon Network,2016-01-13 12:38:00.000000,Afternoon,329
+772117,Jared,Mcclaine,Jared502@gmail.com,male,coloured,29,Young Adults,Western Cape,@Jared50,Channel O,2016-02-04 11:36:00.000000,Morning,981
+772142,Royal,Nicholls,Royal171@yahoo.com,male,indian_asian,32,Young Adults,Western Cape,@Royal17,Boomerang,2016-03-10 20:10:00.000000,Evening,86
+772147,Brendan,Styer,Brendan454@abcmail.com,male,black,29,Young Adults,Kwazulu Natal,@Brendan45,Supersport Live Events,2016-03-05 13:25:00.000000,Afternoon,94
+772177,Tiffani,Pilot,Tiffani212@gmail.com,female,black,25,Young Adults,Gauteng,@Tiffani21,Cartoon Network,2016-02-01 08:13:00.000000,Morning,240
+772202,Hugh,Tancredi,Hugh13@mail.com,male,black,26,Young Adults,Gauteng,@Hugh1,Channel O,2016-01-20 13:44:00.000000,Afternoon,381
+772209,Claud,Sytsma,Claud343@mail.com,male,None,19,Young Adults,Mpumalanga,@Claud34,Channel O,2016-01-01 13:11:00.000000,Afternoon,627
+772221,Samuel,Hier,Samuel265@mailxyz.com,male,black,48,Adults,North West,@Samuel26,MK,2016-02-03 06:40:00.000000,Morning,143
+772227,Torrie,Mcclaine,Torrie131@yahoo.com,female,black,29,Young Adults,Limpopo,@Torrie13,Trace TV,2016-03-21 08:49:00.000000,Morning,45
+772230,Loyd,Slane,Loyd492@gmail.com,male,black,21,Young Adults,Mpumalanga,@Loyd49,Cartoon Network,2016-01-03 08:59:00.000000,Morning,15
+772232,Cory,Creager,Cory105@mailxyz.com,male,coloured,58,Seniors,Western Cape,@Cory10,Trace TV,2016-01-05 10:10:00.000000,Morning,2412
+772243,Michel,Reisinger,Michel204@abcmail.com,male,coloured,19,Young Adults,Eastern Cape,@Michel20,Cartoon Network,2016-02-03 18:19:00.000000,Evening,65
+772251,Chas,Slane,Chas355@mailxyz.com,male,black,31,Young Adults,Gauteng,@Chas35,Trace TV,2016-01-24 14:54:00.000000,Afternoon,348
+772271,Wilburn,Lavoie,Wilburn304@abcmail.com,male,None,34,Young Adults,Western Cape,@Wilburn30,Supersport Live Events,2016-02-27 12:38:00.000000,Afternoon,22
+772276,Eli,Biggers,Eli295@mailxyz.com,male,black,44,Adults,Eastern Cape,@Eli29,Supersport Live Events,2016-02-02 16:51:00.000000,Afternoon,198
+772277,Dion,Bilyeu,Dion331@yahoo.com,male,black,48,Adults,Mpumalanga,@Dion33,Africa Magic,2016-03-12 19:02:00.000000,Evening,6
+772278,Brendan,Pilot,Brendan455@mailxyz.com,male,coloured,30,Young Adults,Western Cape,@Brendan45,Supersport Live Events,2016-01-31 14:28:00.000000,Afternoon,66
+772309,Art,Arrieta,Art401@yahoo.com,male,black,35,Young Adults,Gauteng,@Art40,Channel O,2016-02-08 06:14:00.000000,Morning,312
+772311,Bernardo,Pool,Bernardo324@abcmail.com,male,black,32,Young Adults,Mpumalanga,@Bernardo32,Channel O,2016-02-08 20:35:00.000000,Evening,96
+772325,Brendan,Mccollum,Brendan451@yahoo.com,male,black,31,Young Adults,Mpumalanga,@Brendan45,ICC Cricket World Cup 2011,2016-03-25 15:01:00.000000,Afternoon,1268
+772329,Dee,Lavoie,Dee211@yahoo.com,male,black,11,Kids,Kwazulu Natal,@Dee21,Channel O,2016-03-21 12:13:00.000000,Afternoon,156
+772330,Royal,Arrieta,Royal173@mail.com,male,white,21,Young Adults,Gauteng,@Royal17,SawSee,2016-01-26 17:13:00.000000,Afternoon,15
+772333,Irving,Crotty,Irving51@yahoo.com,male,black,28,Young Adults,Mpumalanga,@Irving5,SuperSport Blitz,2016-02-06 13:05:00.000000,Afternoon,62
+772341,Emerson,Holt,Emerson243@mail.com,male,None,31,Young Adults,Gauteng,@Emerson24,Channel O,2016-03-06 11:58:00.000000,Morning,225
+772343,Wilburn,Pilot,Wilburn303@mail.com,male,black,29,Young Adults,North West,@Wilburn30,Africa Magic,2016-03-01 14:18:00.000000,Afternoon,49
+772355,Shelley,Reisinger,Shelley255@mailxyz.com,female,None,25,Young Adults,Gauteng,@Shelley25,Cartoon Network,2016-02-11 08:02:00.000000,Morning,100
+772361,Emerson,Leicht,Emerson241@yahoo.com,male,white,47,Adults,Eastern Cape,@Emerson24,E! Entertainment,2016-01-23 19:02:00.000000,Evening,318
+772367,Abel,Hier,Abel185@mailxyz.com,male,black,33,Young Adults,Free State,@Abel18,Supersport Live Events,2016-02-06 17:03:00.000000,Afternoon,1614
+772369,Minerva,Marek,Minerva174@abcmail.com,female,black,57,Seniors,Gauteng,@Minerva17,Live on SuperSport,2016-02-08 03:54:00.000000,Morning,72
+772378,Williemae,Holt,Williemae491@yahoo.com,female,None,25,Young Adults,Free State,@Williemae49,SuperSport Blitz,2016-01-08 07:00:00.000000,Morning,610
+772390,Valentine,Holt,Valentine474@abcmail.com,male,black,37,Adults,Gauteng,@Valentine47,Cartoon Network,2016-02-05 16:25:00.000000,Afternoon,174
+772399,Len,Arrieta,Len443@mail.com,male,black,34,Young Adults,Gauteng,@Len44,CNN,2016-02-18 06:08:00.000000,Morning,1002
+772418,Kip,Gettys,Kip141@yahoo.com,male,black,42,Adults,Gauteng,@Kip14,Supersport Live Events,2016-02-06 16:10:00.000000,Afternoon,0
+772421,Markus,Mastrangelo,Markus192@gmail.com,male,black,30,Young Adults,North West,@Markus19,Channel O,2016-02-10 06:32:00.000000,Morning,258
+772434,Eula,Mccown,Eula171@yahoo.com,female,black,29,Young Adults,Kwazulu Natal,@Eula17,Africa Magic,2016-02-02 17:13:00.000000,Afternoon,172
+772437,Earl,Roquemore,Earl421@yahoo.com,male,black,31,Young Adults,North West,@Earl42,SuperSport Blitz,2016-01-30 06:26:00.000000,Morning,6
+772448,Royal,Woolard,Royal171@yahoo.com,male,black,31,Young Adults,Free State,@Royal17,Africa Magic,2016-03-16 18:33:00.000000,Evening,1
+772449,Irving,Creager,Irving55@mailxyz.com,male,white,25,Young Adults,Gauteng,@Irving5,Supersport Live Events,2016-01-23 15:25:00.000000,Afternoon,92
+772450,Efren,Singer,Efren134@abcmail.com,male,None,31,Young Adults,Western Cape,@Efren13,ICC Cricket World Cup 2011,2016-03-01 12:08:00.000000,Afternoon,94
+772451,Luanna,Hoadley,Luanna275@mailxyz.com,female,black,36,Adults,North West,@Luanna27,Africa Magic,2016-01-23 22:08:00.000000,Evening,1354
+772455,Lane,Fudge,Lane115@mailxyz.com,male,black,57,Seniors,Gauteng,@Lane11,Supersport Live Events,2016-01-08 07:53:00.000000,Morning,44
+772474,Markus,Crotty,Markus191@yahoo.com,male,coloured,26,Young Adults,Western Cape,@Markus19,Supersport Live Events,2016-01-05 11:35:00.000000,Morning,84
+772475,Lloyd,Vital,Lloyd74@abcmail.com,male,white,16,Teens,Gauteng,@Lloyd7,Trace TV,2016-01-02 08:25:00.000000,Morning,0
+772477,Rebekah,Paradis,Rebekah322@gmail.com,female,black,35,Young Adults,Kwazulu Natal,@Rebekah32,Channel O,2016-02-03 18:05:00.000000,Evening,723
+772478,Samuel,Mosser,Samuel262@gmail.com,male,black,24,Young Adults,Mpumalanga,@Samuel26,Channel O,2016-02-05 07:49:00.000000,Morning,207
+772499,Hugh,Martello,Hugh13@mail.com,male,black,33,Young Adults,Western Cape,@Hugh1,Channel O,2016-02-01 06:36:00.000000,Morning,270
+772507,Haywood,Mcclaine,Haywood93@mail.com,male,black,30,Young Adults,Gauteng,@Haywood9,SawSee,2016-02-03 21:47:00.000000,Evening,30
+772511,Efren,Tatham,Efren133@mail.com,male,black,21,Young Adults,Limpopo,@Efren13,Channel O,2016-01-03 13:52:00.000000,Afternoon,129
+772528,Briana,Caves,Briana152@gmail.com,female,black,32,Young Adults,Mpumalanga,@Briana15,M-Net,2016-01-08 20:32:00.000000,Evening,322
+772529,Kip,Paradis,Kip144@abcmail.com,male,black,27,Young Adults,Gauteng,@Kip14,Supersport Live Events,2016-03-06 14:23:00.000000,Afternoon,24
+772532,Filiberto,Borelli,Filiberto41@yahoo.com,male,coloured,27,Young Adults,Western Cape,@Filiberto4,Boomerang,2016-01-07 16:57:00.000000,Afternoon,144
+772551,Hyman,Mcculloch,Hyman82@gmail.com,male,other,51,Seniors,Western Cape,@Hyman8,Cartoon Network,2016-01-22 13:23:00.000000,Afternoon,22
+772553,Randy,Mccollum,Randy393@mail.com,male,coloured,26,Young Adults,Western Cape,@Randy39,Boomerang,2016-01-21 22:17:00.000000,Evening,169
+772557,Eli,Caves,Eli292@gmail.com,male,coloured,32,Young Adults,Western Cape,@Eli29,Supersport Live Events,2016-01-30 08:23:00.000000,Morning,60
+772561,Randy,Beville,Randy395@mailxyz.com,male,None,24,Young Adults,Western Cape,@Randy39,Supersport Live Events,2016-03-26 13:24:00.000000,Afternoon,2694
+772563,Chas,Mccown,Chas354@abcmail.com,male,coloured,51,Seniors,Western Cape,@Chas35,E! Entertainment,2016-02-15 15:57:00.000000,Afternoon,184
+772575,Lane,Slane,Lane111@yahoo.com,male,black,41,Adults,Gauteng,@Lane11,Supersport Live Events,2016-01-30 11:42:00.000000,Morning,6
+772584,Efren,Woolard,Efren134@abcmail.com,male,black,24,Young Adults,Gauteng,@Efren13,CNN,2016-02-05 08:04:00.000000,Morning,78
+772587,Abel,Tancredi,Abel181@yahoo.com,male,black,22,Young Adults,Mpumalanga,@Abel18,SuperSport Blitz,2016-03-28 09:05:00.000000,Morning,330
+772606,Yong,Caves,Yong485@mailxyz.com,male,black,29,Young Adults,Kwazulu Natal,@Yong48,Trace TV,2016-01-24 10:20:00.000000,Morning,114
+772607,Charlie,Crotty,Charlie362@gmail.com,male,coloured,24,Young Adults,Gauteng,@Charlie36,SuperSport Blitz,2016-02-13 13:15:00.000000,Afternoon,957
+772614,Claud,Jacox,Claud343@mail.com,male,None,24,Young Adults,Free State,@Claud34,kykNET,2016-01-22 18:22:00.000000,Evening,396
+772618,Emilie,Deblois,Emilie325@mailxyz.com,female,coloured,14,Teens,Kwazulu Natal,@Emilie32,Africa Magic,2016-01-30 12:14:00.000000,Afternoon,11
+772624,Raymundo,Condie,Raymundo431@yahoo.com,male,black,47,Adults,North West,@Raymundo43,E! Entertainment,2016-03-10 14:09:00.000000,Afternoon,0
+772648,Cory,Arrieta,Cory102@gmail.com,male,coloured,54,Seniors,Western Cape,@Cory10,Channel O,2016-02-12 15:13:00.000000,Afternoon,303
+772650,Abel,Curran,Abel185@mailxyz.com,male,black,37,Adults,Gauteng,@Abel18,Trace TV,2016-01-26 07:31:00.000000,Morning,0
+772654,Stephen,Mina,Stephen151@yahoo.com,male,black,22,Young Adults,Limpopo,@Stephen15,Trace TV,2016-01-14 06:10:00.000000,Morning,1638
+772665,Lucas,Wigfall,Lucas235@mailxyz.com,male,black,34,Young Adults,Kwazulu Natal,@Lucas23,Boomerang,2016-02-03 19:26:00.000000,Evening,243
+772669,Cody,Curran,Cody121@yahoo.com,male,black,43,Adults,Western Cape,@Cody12,Africa Magic,2016-02-13 16:11:00.000000,Afternoon,54
+772671,Stefan,Arrieta,Stefan461@yahoo.com,male,white,24,Young Adults,Gauteng,@Stefan46,Supersport Live Events,2016-03-19 17:03:00.000000,Afternoon,112
+772680,Irving,Condie,Irving51@yahoo.com,male,black,25,Young Adults,Gauteng,@Irving5,Cartoon Network,2016-01-31 16:41:00.000000,Afternoon,66
+772685,Lane,Gettys,Lane115@mailxyz.com,male,black,36,Adults,Gauteng,@Lane11,Supersport Live Events,2016-01-09 15:18:00.000000,Afternoon,2170
+772687,Garry,Mosser,Garry282@gmail.com,male,black,38,Adults,Limpopo,@Garry28,SawSee,2016-02-28 18:21:00.000000,Evening,0
+772694,Carter,Vital,Carter34@abcmail.com,male,black,32,Young Adults,Gauteng,@Carter3,SuperSport Blitz,2016-03-23 12:34:00.000000,Afternoon,136
+772699,Yong,Luthy,Yong481@yahoo.com,male,black,34,Young Adults,Gauteng,@Yong48,Boomerang,2016-02-05 13:34:00.000000,Afternoon,382
+772704,Filiberto,Hier,Filiberto42@gmail.com,male,white,27,Young Adults,Gauteng,@Filiberto4,Supersport Live Events,2016-01-29 12:10:00.000000,Afternoon,242
+772711,Len,Vital,Len441@yahoo.com,male,black,33,Young Adults,Kwazulu Natal,@Len44,Supersport Live Events,2016-03-13 18:46:00.000000,Evening,2062
+772734,Carter,Mcclaine,Carter32@gmail.com,male,white,38,Adults,Western Cape,@Carter3,Trace TV,2016-01-01 20:47:00.000000,Evening,69
+772736,Hollis,Biggers,Hollis383@mail.com,male,black,22,Young Adults,Western Cape,@Hollis38,Supersport Live Events,2016-02-16 16:18:00.000000,Afternoon,84
+772742,Krysta,Mastrangelo,Krysta282@gmail.com,female,black,25,Young Adults,Free State,@Krysta28,Channel O,2016-02-03 20:06:00.000000,Evening,108
+772748,Irving,Sieren,Irving53@mail.com,male,black,23,Young Adults,Gauteng,@Irving5,Trace TV,2016-02-01 06:09:00.000000,Morning,855
+772759,Jacinto,Bilyeu,Jacinto253@mail.com,male,black,46,Adults,Gauteng,@Jacinto25,Supersport Live Events,2016-01-23 18:58:00.000000,Evening,0
+772766,Dion,Jacox,Dion331@yahoo.com,male,black,33,Young Adults,Mpumalanga,@Dion33,SuperSport Blitz,2016-02-02 06:40:00.000000,Morning,402
+772778,Lucas,Sytsma,Lucas235@mailxyz.com,male,coloured,32,Young Adults,Eastern Cape,@Lucas23,Supersport Live Events,2016-02-18 07:33:00.000000,Morning,988
+772784,Royal,Mosser,Royal175@mailxyz.com,male,None,25,Young Adults,Kwazulu Natal,@Royal17,Supersport Live Events,2016-03-06 14:16:00.000000,Afternoon,164
+772787,Royal,Biggers,Royal175@mailxyz.com,male,black,37,Adults,Gauteng,@Royal17,Supersport Live Events,2016-01-25 21:11:00.000000,Evening,544
+772796,Claud,Mccollum,Claud341@yahoo.com,male,black,13,Teens,Gauteng,@Claud34,Cartoon Network,2016-02-12 09:18:00.000000,Morning,29
+772798,Robby,Mcculloch,Robby161@yahoo.com,male,black,42,Adults,Kwazulu Natal,@Robby16,SawSee,2016-02-18 04:20:00.000000,Morning,0
+772802,Carter,Tatham,Carter32@gmail.com,male,coloured,21,Young Adults,Free State,@Carter3,Supersport Live Events,2016-02-12 13:29:00.000000,Afternoon,84
+772826,Michel,Vital,Michel202@gmail.com,male,black,23,Young Adults,Limpopo,@Michel20,Boomerang,2016-03-12 19:16:00.000000,Evening,295
+772827,Bernardo,Mina,Bernardo321@yahoo.com,male,black,28,Young Adults,North West,@Bernardo32,Africa Magic,2016-02-03 12:52:00.000000,Afternoon,0
+772828,Valentine,Sytsma,Valentine475@mailxyz.com,male,coloured,25,Young Adults,Northern Cape,@Valentine47,Trace TV,2016-02-04 19:37:00.000000,Evening,150
+772829,Bernardo,Marek,Bernardo321@yahoo.com,male,black,32,Young Adults,Limpopo,@Bernardo32,Trace TV,2016-01-28 13:46:00.000000,Afternoon,417
+772832,Iva,Styer,Iva84@abcmail.com,female,white,29,Young Adults,Gauteng,@Iva8,Supersport Live Events,2016-02-03 09:16:00.000000,Morning,16
+772839,Yong,Hier,Yong485@mailxyz.com,male,black,27,Young Adults,Limpopo,@Yong48,Trace TV,2016-02-06 14:43:00.000000,Afternoon,9
+772844,Abel,Nicholls,Abel185@mailxyz.com,male,black,34,Young Adults,Gauteng,@Abel18,Africa Magic,2016-01-28 22:30:00.000000,Evening,29
+772855,Samuel,Curran,Samuel261@yahoo.com,male,black,30,Young Adults,Kwazulu Natal,@Samuel26,SuperSport Blitz,2016-02-02 21:15:00.000000,Evening,450
+772861,Stefan,Tancredi,Stefan462@gmail.com,male,black,27,Young Adults,Gauteng,@Stefan46,CNN,2016-01-29 14:58:00.000000,Afternoon,5
+772873,Wilton,Shkreli,Wilton415@mailxyz.com,male,black,9,Kids,Limpopo,@Wilton41,SawSee,2016-01-19 13:14:00.000000,Afternoon,128
+772879,Chas,Mastrangelo,Chas353@mail.com,male,white,41,Adults,Kwazulu Natal,@Chas35,Africa Magic,2016-01-09 12:59:00.000000,Afternoon,8
+772881,Hyman,Sieren,Hyman84@abcmail.com,male,black,32,Young Adults,Kwazulu Natal,@Hyman8,M-Net,2016-02-05 10:15:00.000000,Morning,24
+772890,Lane,Hier,Lane112@gmail.com,male,None,25,Young Adults,Gauteng,@Lane11,Trace TV,2016-01-30 04:58:00.000000,Morning,48
+772891,Randy,Woolard,Randy391@yahoo.com,male,coloured,44,Adults,Eastern Cape,@Randy39,SuperSport Blitz,2016-03-15 17:37:00.000000,Afternoon,2020
+772897,Cory,Mastrangelo,Cory103@mail.com,male,black,32,Young Adults,Gauteng,@Cory10,Cartoon Network,2016-02-09 17:29:00.000000,Afternoon,20
+772900,Markus,Jacox,Markus195@mailxyz.com,male,black,30,Young Adults,Gauteng,@Markus19,Cartoon Network,2016-03-27 05:19:00.000000,Morning,69
+772903,Shane,Lavoie,Shane22@gmail.com,male,coloured,40,Adults,Eastern Cape,@Shane2,CNN,2016-01-19 16:55:00.000000,Afternoon,89
+772904,Cordie,Singer,Cordie104@abcmail.com,female,None,50,Adults,Gauteng,@Cordie10,CNN,2016-01-01 16:30:00.000000,Afternoon,7
+772912,Emerson,Mastrangelo,Emerson243@mail.com,male,white,29,Young Adults,Eastern Cape,@Emerson24,Supersport Live Events,2016-03-11 09:57:00.000000,Morning,196
+772919,Lucas,Shkreli,Lucas231@yahoo.com,male,white,35,Young Adults,Gauteng,@Lucas23,Trace TV,2016-01-05 18:31:00.000000,Evening,63
+772921,Kyle,Mcclaine,Kyle62@gmail.com,male,black,25,Young Adults,Mpumalanga,@Kyle6,Trace TV,2016-02-08 22:31:00.000000,Evening,786
+772926,Anette,Leicht,Anette131@yahoo.com,female,coloured,39,Adults,Kwazulu Natal,@Anette13,CNN,2016-03-25 04:48:00.000000,Morning,575
+772929,Len,Gettys,Len442@gmail.com,male,white,39,Adults,Western Cape,@Len44,Supersport Live Events,2016-02-06 15:31:00.000000,Afternoon,60
+772932,Robby,Deblois,Robby164@abcmail.com,male,black,27,Young Adults,Northern Cape,@Robby16,Africa Magic,2016-02-11 12:56:00.000000,Afternoon,1406
+772938,Jared,Biggers,Jared502@gmail.com,male,coloured,36,Adults,Western Cape,@Jared50,Cartoon Network,2016-02-19 21:51:00.000000,Evening,5720
+772943,Stephen,Vital,Stephen152@gmail.com,male,coloured,30,Young Adults,Western Cape,@Stephen15,Supersport Live Events,2016-02-25 16:28:00.000000,Afternoon,118
+772946,Charlie,Holt,Charlie361@yahoo.com,male,black,34,Young Adults,Western Cape,@Charlie36,Trace TV,2016-01-17 18:06:00.000000,Evening,168
+772948,Hollis,Beville,Hollis385@mailxyz.com,male,indian_asian,51,Seniors,Kwazulu Natal,@Hollis38,SuperSport Blitz,2016-02-13 18:20:00.000000,Evening,9
+772950,Briana,Caves,Briana335@mailxyz.com,female,black,35,Young Adults,Gauteng,@Briana33,Africa Magic,2016-01-25 10:30:00.000000,Morning,42
+772952,Dee,Arrieta,Dee212@gmail.com,male,white,45,Adults,Mpumalanga,@Dee21,Supersport Live Events,2016-03-25 09:59:00.000000,Morning,182
+772954,Felipa,Mcculloch,Felipa282@gmail.com,female,coloured,32,Young Adults,Northern Cape,@Felipa28,Cartoon Network,2016-01-06 06:32:00.000000,Morning,1974
+772955,Filiberto,Pascarella,Filiberto41@yahoo.com,male,None,30,Young Adults,Gauteng,@Filiberto4,DStv Events 1,2016-02-05 08:42:00.000000,Morning,40
+772956,Markus,Tancredi,Markus192@gmail.com,male,indian_asian,25,Young Adults,Gauteng,@Markus19,ICC Cricket World Cup 2011,2016-03-30 11:45:00.000000,Morning,142
+772957,Lucas,Mcculloch,Lucas232@gmail.com,male,indian_asian,53,Seniors,Gauteng,@Lucas23,CNN,2016-02-06 16:03:00.000000,Afternoon,220
+772964,Yong,Restivo,Yong484@abcmail.com,male,None,40,Adults,Mpumalanga,@Yong48,Trace TV,2016-02-05 19:51:00.000000,Evening,42
+772972,Kip,Zweifel,Kip141@yahoo.com,male,coloured,32,Young Adults,Western Cape,@Kip14,Supersport Live Events,2016-02-05 14:43:00.000000,Afternoon,318
+772975,Lloyd,Lavoie,Lloyd73@mail.com,male,black,35,Young Adults,Gauteng,@Lloyd7,Channel O,2016-03-21 06:14:00.000000,Morning,1371
+772976,Randy,Paradis,Randy391@yahoo.com,male,black,26,Young Adults,Gauteng,@Randy39,Trace TV,2016-02-04 14:03:00.000000,Afternoon,159
+772978,Torrie,Mcclaine,Torrie72@gmail.com,female,None,33,Young Adults,Gauteng,@Torrie7,Africa Magic,2016-01-23 19:05:00.000000,Evening,74
+772980,Earl,Reisinger,Earl424@abcmail.com,male,black,25,Young Adults,Limpopo,@Earl42,Trace TV,2016-03-29 15:47:00.000000,Afternoon,138
+772983,Yong,Crotty,Yong483@mail.com,male,None,46,Adults,Gauteng,@Yong48,Supersport Live Events,2016-02-04 13:49:00.000000,Afternoon,4
+772988,Shane,Restivo,Shane25@mailxyz.com,male,black,31,Young Adults,Gauteng,@Shane2,Africa Magic,2016-01-31 15:45:00.000000,Afternoon,774
+772992,Samuel,Biggers,Samuel264@abcmail.com,male,black,24,Young Adults,Mpumalanga,@Samuel26,Boomerang,2016-02-01 20:58:00.000000,Evening,27
+772998,Raymundo,Zweifel,Raymundo435@mailxyz.com,male,white,21,Young Adults,Mpumalanga,@Raymundo43,Cartoon Network,2016-02-11 19:34:00.000000,Evening,38
+773002,Randy,Deblois,Randy395@mailxyz.com,male,black,25,Young Adults,Gauteng,@Randy39,Cartoon Network,2016-02-03 18:20:00.000000,Evening,107
+773004,Abel,Mccollum,Abel183@mail.com,male,black,32,Young Adults,North West,@Abel18,Channel O,2016-01-26 17:04:00.000000,Afternoon,210
+773012,Filiberto,Pascarella,Filiberto45@mailxyz.com,male,black,45,Adults,Gauteng,@Filiberto4,Supersport Live Events,2016-02-05 18:41:00.000000,Evening,442
+773014,Lane,Fudge,Lane115@mailxyz.com,male,black,19,Young Adults,Gauteng,@Lane11,Channel O,2016-03-10 15:11:00.000000,Afternoon,657
+773016,Kip,Caves,Kip144@abcmail.com,male,black,45,Adults,Free State,@Kip14,CNN,2016-02-04 06:28:00.000000,Morning,1335
+773017,Cody,Pascarella,Cody124@abcmail.com,male,coloured,23,Young Adults,Gauteng,@Cody12,Trace TV,2016-02-03 16:33:00.000000,Afternoon,138
+773020,Raymundo,Mccown,Raymundo431@yahoo.com,male,black,20,Young Adults,North West,@Raymundo43,Supersport Live Events,2016-02-06 17:35:00.000000,Afternoon,54
+773027,Dee,Mosser,Dee215@mailxyz.com,male,coloured,39,Adults,Western Cape,@Dee21,SuperSport Blitz,2016-02-06 10:28:00.000000,Morning,0
+773030,Malika,Sieren,Malika282@gmail.com,female,black,25,Young Adults,Northern Cape,@Malika28,Channel O,2016-02-13 07:46:00.000000,Morning,264
+773035,Seema,Fudge,Seema265@mailxyz.com,female,white,113,Seniors,Western Cape,@Seema26,Cartoon Network,2016-02-01 15:55:00.000000,Afternoon,70
+773039,Carter,Crotty,Carter31@yahoo.com,male,indian_asian,27,Young Adults,Kwazulu Natal,@Carter3,E! Entertainment,2016-01-26 20:08:00.000000,Evening,370
+773044,Lucas,Marek,Lucas233@mail.com,male,black,25,Young Adults,Western Cape,@Lucas23,Channel O,2016-01-29 06:32:00.000000,Morning,180
+773049,Shane,Crotty,Shane25@mailxyz.com,male,indian_asian,26,Young Adults,Kwazulu Natal,@Shane2,SuperSport Live Events,2016-02-13 08:03:00.000000,Morning,46
+773052,Emerson,Pool,Emerson244@abcmail.com,male,coloured,49,Adults,Gauteng,@Emerson24,Supersport Live Events,2016-02-07 15:19:00.000000,Afternoon,42
+773053,Art,Tatham,Art404@abcmail.com,male,None,44,Adults,Limpopo,@Art40,Africa Magic,2016-03-04 17:12:00.000000,Afternoon,29
+773054,Dee,Styer,Dee213@mail.com,male,black,34,Young Adults,Gauteng,@Dee21,Africa Magic,2016-01-07 21:27:00.000000,Evening,657
+773055,Royal,Hoadley,Royal172@gmail.com,male,black,26,Young Adults,Kwazulu Natal,@Royal17,Africa Magic,2016-01-25 20:14:00.000000,Evening,804
+773057,Earl,Paradis,Earl423@mail.com,male,black,38,Adults,Western Cape,@Earl42,CNN,2016-03-01 17:02:00.000000,Afternoon,21
+773059,Shane,Crotty,Shane22@gmail.com,male,black,38,Adults,Mpumalanga,@Shane2,MK,2016-02-03 00:30:00.000000,Morning,91
+773061,Robby,Gettys,Robby161@yahoo.com,male,black,46,Adults,Gauteng,@Robby16,CNN,2016-01-12 04:00:00.000000,Morning,42
+773062,Valentine,Beville,Valentine473@mail.com,male,black,32,Young Adults,Mpumalanga,@Valentine47,Boomerang,2016-01-31 18:24:00.000000,Evening,81
+773064,Lucas,Mina,Lucas232@gmail.com,male,white,49,Adults,Gauteng,@Lucas23,SawSee,2016-02-18 12:07:00.000000,Afternoon,30
+773065,Williemae,Holt,Williemae421@yahoo.com,female,coloured,21,Young Adults,Gauteng,@Williemae42,E! Entertainment,2016-02-02 12:47:00.000000,Afternoon,88
+773077,Loyd,Vital,Loyd492@gmail.com,male,black,45,Adults,Gauteng,@Loyd49,CNN,2016-01-15 13:41:00.000000,Afternoon,0
+773090,Yong,Crotty,Yong485@mailxyz.com,male,indian_asian,34,Young Adults,Gauteng,@Yong48,CNN,2016-03-19 15:30:00.000000,Afternoon,119
+773098,Len,Martello,Len444@abcmail.com,male,black,26,Young Adults,North West,@Len44,Cartoon Network,2016-02-03 09:19:00.000000,Morning,54
+773105,Dee,Crotty,Dee213@mail.com,male,black,36,Adults,Gauteng,@Dee21,Africa Magic,2016-02-04 12:40:00.000000,Afternoon,1
+773113,Art,Martello,Art402@gmail.com,male,black,28,Young Adults,Kwazulu Natal,@Art40,SuperSport Blitz,2016-02-03 15:11:00.000000,Afternoon,110
+773133,Lloyd,Mina,Lloyd73@mail.com,male,black,37,Adults,Gauteng,@Lloyd7,Trace TV,2016-01-10 13:53:00.000000,Afternoon,0
+773138,Robby,Luthy,Robby164@abcmail.com,male,black,40,Adults,North West,@Robby16,SuperSport Blitz,2016-02-13 17:21:00.000000,Afternoon,774
+773141,Royal,Lavoie,Royal173@mail.com,male,black,24,Young Adults,Limpopo,@Royal17,Trace TV,2016-02-18 14:53:00.000000,Afternoon,2001
+773142,Brendan,Arrieta,Brendan451@yahoo.com,male,white,54,Seniors,Mpumalanga,@Brendan45,Supersport Live Events,2016-02-21 08:29:00.000000,Morning,40
+773147,Dee,Arrieta,Dee213@mail.com,male,black,35,Young Adults,Gauteng,@Dee21,Africa Magic,2016-02-09 04:54:00.000000,Morning,11
+773149,Lane,Wigfall,Lane112@gmail.com,male,coloured,27,Young Adults,Western Cape,@Lane11,Trace TV,2016-03-01 19:16:00.000000,Evening,102
+773156,Royal,Restivo,Royal175@mailxyz.com,male,black,44,Adults,Gauteng,@Royal17,Supersport Live Events,2016-03-04 14:26:00.000000,Afternoon,120
+773159,Emerson,Mastrangelo,Emerson242@gmail.com,male,white,27,Young Adults,Eastern Cape,@Emerson24,Boomerang,2016-01-28 18:35:00.000000,Evening,36
+773163,Carlota,Tancredi,Carlota241@yahoo.com,female,black,26,Young Adults,Western Cape,@Carlota24,ICC Cricket World Cup 2011,2016-02-28 13:26:00.000000,Afternoon,300
+773165,Michel,Lavoie,Michel202@gmail.com,male,black,28,Young Adults,Mpumalanga,@Michel20,Africa Magic,2016-02-07 10:56:00.000000,Morning,14
+773175,Dee,Pool,Dee211@yahoo.com,male,black,29,Young Adults,Mpumalanga,@Dee21,Supersport Live Events,2016-02-01 21:58:00.000000,Evening,5336
+773183,Chas,Vital,Chas352@gmail.com,male,white,12,Kids,Western Cape,@Chas35,Cartoon Network,2016-02-06 06:12:00.000000,Morning,44
+773187,Royal,Bilyeu,Royal173@mail.com,male,white,38,Adults,Mpumalanga,@Royal17,Boomerang,2016-03-09 10:32:00.000000,Morning,49
+773188,Hugh,Mcculloch,Hugh11@yahoo.com,male,indian_asian,34,Young Adults,Northern Cape,@Hugh1,Supersport Live Events,2016-03-06 14:27:00.000000,Afternoon,22
+773197,Lillie,Langenfeld,Lillie504@abcmail.com,female,coloured,40,Adults,Gauteng,@Lillie50,Channel O,2016-02-17 19:35:00.000000,Evening,396
+773203,Charlie,Vital,Charlie363@mail.com,male,black,32,Young Adults,Gauteng,@Charlie36,Supersport Live Events,2016-01-16 18:11:00.000000,Evening,554
+773206,Cory,Leicht,Cory103@mail.com,male,white,52,Seniors,Free State,@Cory10,Supersport Live Events,2016-01-18 13:14:00.000000,Afternoon,238
+773212,Chas,Mosser,Chas354@abcmail.com,male,black,23,Young Adults,Gauteng,@Chas35,SawSee,2016-02-06 08:49:00.000000,Morning,35
+773214,Bret,Lavoie,Bret315@mailxyz.com,male,None,45,Adults,Western Cape,@Bret31,SuperSport Blitz,2016-02-09 07:38:00.000000,Morning,32
+773226,Hollis,Sieren,Hollis381@yahoo.com,male,white,20,Young Adults,Gauteng,@Hollis38,Channel O,2016-02-06 05:19:00.000000,Morning,15
+773228,Irving,Martello,Irving51@yahoo.com,male,white,22,Young Adults,Limpopo,@Irving5,Supersport Live Events,2016-02-02 19:26:00.000000,Evening,2180
+773242,Art,Creager,Art405@mailxyz.com,male,white,37,Adults,Gauteng,@Art40,Cartoon Network,2016-01-06 21:53:00.000000,Evening,2301
+773246,Bernardo,Curran,Bernardo323@mail.com,male,None,40,Adults,Mpumalanga,@Bernardo32,Africa Magic,2016-02-06 21:04:00.000000,Evening,51
+773248,Randy,Gettys,Randy395@mailxyz.com,male,white,39,Adults,Gauteng,@Randy39,Boomerang,2016-01-07 16:29:00.000000,Afternoon,871
+773263,Charlie,Mcculloch,Charlie362@gmail.com,male,coloured,35,Young Adults,Western Cape,@Charlie36,SuperSport Blitz,2016-03-26 19:57:00.000000,Evening,6708
+773265,Jared,Curran,Jared503@mail.com,male,indian_asian,34,Young Adults,Kwazulu Natal,@Jared50,ICC Cricket World Cup 2011,2016-03-23 08:58:00.000000,Morning,1358
+773269,Hollis,Pool,Hollis382@gmail.com,male,black,35,Young Adults,Mpumalanga,@Hollis38,SuperSport Blitz,2016-01-11 08:30:00.000000,Morning,32
+773270,Carter,Sieren,Carter32@gmail.com,male,coloured,28,Young Adults,Western Cape,@Carter3,Channel O,2016-02-09 13:54:00.000000,Afternoon,246
+773276,Shane,Mastrangelo,Shane23@mail.com,male,white,27,Young Adults,Gauteng,@Shane2,ICC Cricket World Cup 2011,2016-03-23 11:35:00.000000,Morning,112
+773290,Yong,Singer,Yong481@yahoo.com,male,coloured,26,Young Adults,Northern Cape,@Yong48,SuperSport Blitz,2016-03-08 17:13:00.000000,Afternoon,960
+773298,Robby,Borelli,Robby163@mail.com,male,black,34,Young Adults,Western Cape,@Robby16,Channel O,2016-02-24 03:07:00.000000,Morning,78
+773300,Tiffani,Pilot,Tiffani242@gmail.com,female,black,22,Young Adults,Limpopo,@Tiffani24,Africa Magic,2016-01-14 17:34:00.000000,Afternoon,41
+773303,Raymundo,Pilot,Raymundo434@abcmail.com,male,white,34,Young Adults,Gauteng,@Raymundo43,E! Entertainment,2016-02-07 14:07:00.000000,Afternoon,534
+773304,Earl,Paradis,Earl421@yahoo.com,male,black,49,Adults,Western Cape,@Earl42,Africa Magic,2016-02-16 16:23:00.000000,Afternoon,86
+773306,Samuel,Borelli,Samuel261@yahoo.com,male,coloured,67,Seniors,Western Cape,@Samuel26,Supersport Live Events,2016-01-10 12:05:00.000000,Afternoon,62
+773309,Bess,Jacox,Bess151@yahoo.com,female,black,24,Young Adults,Free State,@Bess15,Africa Magic,2016-02-08 19:23:00.000000,Evening,83
+773312,Irving,Deblois,Irving55@mailxyz.com,male,white,30,Young Adults,Gauteng,@Irving5,SawSee,2016-01-31 22:10:00.000000,Evening,41
+773314,Wilton,Pascarella,Wilton413@mail.com,male,black,41,Adults,North West,@Wilton41,Africa Magic,2016-02-09 12:31:00.000000,Afternoon,21
+773317,Trudie,Restivo,Trudie223@mail.com,female,white,47,Adults,Gauteng,@Trudie22,ICC Cricket World Cup 2011,2016-03-06 07:43:00.000000,Morning,306
+773319,Romeo,Shkreli,Romeo374@abcmail.com,male,black,19,Young Adults,Northern Cape,@Romeo37,Cartoon Network,2016-01-04 17:28:00.000000,Afternoon,26
+773320,Haywood,Leicht,Haywood91@yahoo.com,male,coloured,46,Adults,Western Cape,@Haywood9,Supersport Live Events,2016-01-29 17:28:00.000000,Afternoon,702
+773321,Wilton,Crotty,Wilton415@mailxyz.com,male,indian_asian,20,Young Adults,Kwazulu Natal,@Wilton41,E! Entertainment,2016-02-03 16:54:00.000000,Afternoon,8
+773323,Brendan,Gettys,Brendan455@mailxyz.com,male,coloured,25,Young Adults,Gauteng,@Brendan45,SuperSport Blitz,2016-02-17 04:14:00.000000,Morning,232
+773326,Stefan,Reisinger,Stefan464@abcmail.com,male,white,45,Adults,Gauteng,@Stefan46,kykNET,2016-03-19 19:42:00.000000,Evening,63
+773327,Loris,Hier,Loris41@yahoo.com,female,black,25,Young Adults,Gauteng,@Loris4,Boomerang,2016-01-26 01:44:00.000000,Morning,57
+773329,Irving,Vital,Irving51@yahoo.com,male,black,48,Adults,Gauteng,@Irving5,Supersport Live Events,2016-02-05 17:16:00.000000,Afternoon,482
+773339,Michel,Slane,Michel201@yahoo.com,male,coloured,27,Young Adults,Gauteng,@Michel20,Supersport Live Events,2016-01-24 19:33:00.000000,Evening,252
+773342,Romeo,Leicht,Romeo375@mailxyz.com,male,None,50,Adults,Mpumalanga,@Romeo37,Africa Magic,2016-02-06 10:24:00.000000,Morning,332
+773343,Nakita,Pool,Nakita151@yahoo.com,female,white,37,Adults,Free State,@Nakita15,E! Entertainment,2016-01-09 12:15:00.000000,Afternoon,332
+773347,Raymundo,Hoadley,Raymundo435@mailxyz.com,male,black,25,Young Adults,Gauteng,@Raymundo43,Supersport Live Events,2016-02-05 14:05:00.000000,Afternoon,86
+773352,Wilton,Zweifel,Wilton415@mailxyz.com,male,black,36,Adults,Gauteng,@Wilton41,Africa Magic,2016-02-13 11:08:00.000000,Morning,34
+773360,Irving,Langenfeld,Irving54@abcmail.com,male,indian_asian,40,Adults,Gauteng,@Irving5,Supersport Live Events,2016-01-12 08:32:00.000000,Morning,328
+773361,Abel,Mccollum,Abel184@abcmail.com,male,black,27,Young Adults,Gauteng,@Abel18,Supersport Live Events,2016-01-24 15:15:00.000000,Afternoon,74
+773365,Kip,Jacox,Kip142@gmail.com,male,black,44,Adults,Eastern Cape,@Kip14,Boomerang,2016-02-03 05:55:00.000000,Morning,79
+773368,Filiberto,Pool,Filiberto43@mail.com,male,black,39,Adults,Gauteng,@Filiberto4,ICC Cricket World Cup 2011,2016-03-20 10:45:00.000000,Morning,562
+773384,Jared,Gettys,Jared503@mail.com,male,black,46,Adults,Mpumalanga,@Jared50,Africa Magic,2016-02-08 14:46:00.000000,Afternoon,337
+773385,Samuel,Paradis,Samuel263@mail.com,male,black,49,Adults,Gauteng,@Samuel26,ICC Cricket World Cup 2011,2016-03-16 13:44:00.000000,Afternoon,340
+773387,Lane,Lavoie,Lane112@gmail.com,male,None,18,Young Adults,Gauteng,@Lane11,Supersport Live Events,2016-02-05 15:18:00.000000,Afternoon,14
+773393,Charlie,Singer,Charlie363@mail.com,male,white,17,Teens,Western Cape,@Charlie36,Channel O,2016-02-04 20:05:00.000000,Evening,75
+773397,Carter,Pascarella,Carter32@gmail.com,male,coloured,30,Young Adults,Western Cape,@Carter3,Supersport Live Events,2016-01-13 21:40:00.000000,Evening,36
+773403,Jared,Wigfall,Jared505@mailxyz.com,male,None,31,Young Adults,Western Cape,@Jared50,Supersport Live Events,2016-02-06 15:52:00.000000,Afternoon,10
+773405,Eli,Zweifel,Eli294@abcmail.com,male,black,29,Young Adults,Mpumalanga,@Eli29,Boomerang,2016-01-09 04:30:00.000000,Morning,188
+773406,Michel,Tancredi,Michel202@gmail.com,male,black,44,Adults,Gauteng,@Michel20,Trace TV,2016-01-26 18:29:00.000000,Evening,645
+773409,Alecia,Roquemore,Alecia84@abcmail.com,female,None,33,Young Adults,Gauteng,@Alecia8,Boomerang,2016-01-27 21:09:00.000000,Evening,2197
+773413,Kyle,Woolard,Kyle62@gmail.com,male,black,21,Young Adults,Gauteng,@Kyle6,Trace TV,2016-01-26 13:22:00.000000,Afternoon,270
+773414,Filiberto,Crotty,Filiberto44@abcmail.com,male,black,24,Young Adults,Gauteng,@Filiberto4,SawSee,2016-01-13 22:52:00.000000,Evening,46
+773415,Michel,Condie,Michel203@mail.com,male,black,35,Young Adults,Gauteng,@Michel20,Channel O,2016-02-03 11:43:00.000000,Morning,15
+773423,Shane,Pascarella,Shane23@mail.com,male,coloured,36,Adults,Western Cape,@Shane2,Channel O,2016-02-03 08:16:00.000000,Morning,54
+773431,Roxane,Lavoie,Roxane404@abcmail.com,female,indian_asian,24,Young Adults,Kwazulu Natal,@Roxane40,Boomerang,2016-01-20 15:42:00.000000,Afternoon,130
+773433,Dee,Curran,Dee215@mailxyz.com,male,indian_asian,32,Young Adults,Kwazulu Natal,@Dee21,Supersport Live Events,2016-02-03 08:17:00.000000,Morning,0
+773440,Carter,Mcclaine,Carter34@abcmail.com,male,None,19,Young Adults,Kwazulu Natal,@Carter3,Channel O,2016-03-04 15:34:00.000000,Afternoon,702
+773444,Loyd,Crotty,Loyd494@abcmail.com,male,white,61,Seniors,Limpopo,@Loyd49,Supersport Live Events,2016-03-25 07:59:00.000000,Morning,24
+773452,Hollis,Jacox,Hollis383@mail.com,male,black,44,Adults,Eastern Cape,@Hollis38,M-Net,2016-01-05 14:49:00.000000,Afternoon,39
+773453,Donald,Mccown,Donald224@abcmail.com,male,black,32,Young Adults,Eastern Cape,@Donald22,Channel O,2016-02-09 05:02:00.000000,Morning,759
+773458,Bess,Jacox,Bess63@mail.com,female,black,20,Young Adults,Gauteng,@Bess6,Trace TV,2016-03-12 06:50:00.000000,Morning,204
+773461,Claud,Reisinger,Claud342@gmail.com,male,black,29,Young Adults,Limpopo,@Claud34,Supersport Live Events,2016-02-15 21:01:00.000000,Evening,0
+773462,Efren,Mcculloch,Efren132@gmail.com,male,black,38,Adults,Kwazulu Natal,@Efren13,Africa Magic,2016-02-12 17:39:00.000000,Afternoon,30
+773487,Kip,Creager,Kip144@abcmail.com,male,coloured,30,Young Adults,Kwazulu Natal,@Kip14,Africa Magic,2016-01-29 08:39:00.000000,Morning,0
+773491,Wilton,Creager,Wilton414@abcmail.com,male,white,41,Adults,Gauteng,@Wilton41,SuperSport Blitz,2016-01-27 17:27:00.000000,Afternoon,128
+773492,Yong,Sieren,Yong481@yahoo.com,male,black,43,Adults,Kwazulu Natal,@Yong48,Supersport Live Events,2016-02-12 16:33:00.000000,Afternoon,2810
+773503,Raymundo,Condie,Raymundo435@mailxyz.com,male,white,33,Young Adults,Mpumalanga,@Raymundo43,Cartoon Network,2016-02-05 17:00:00.000000,Afternoon,181
+773504,Valentine,Paradis,Valentine471@yahoo.com,male,None,51,Seniors,Kwazulu Natal,@Valentine47,Supersport Live Events,2016-02-05 13:55:00.000000,Afternoon,144
+773507,Robby,Roquemore,Robby164@abcmail.com,male,white,43,Adults,Kwazulu Natal,@Robby16,Supersport Live Events,2016-01-21 18:39:00.000000,Evening,804
+773509,Stephen,Pilot,Stephen154@abcmail.com,male,coloured,24,Young Adults,Gauteng,@Stephen15,Trace TV,2016-03-09 04:11:00.000000,Morning,543
+773512,Wilburn,Mosser,Wilburn304@abcmail.com,male,black,35,Young Adults,Eastern Cape,@Wilburn30,ICC Cricket World Cup 2011,2016-03-12 09:58:00.000000,Morning,30
+773517,Markus,Pool,Markus191@yahoo.com,male,coloured,59,Seniors,Western Cape,@Markus19,Boomerang,2016-01-23 16:21:00.000000,Afternoon,90
+773521,Kyle,Pilot,Kyle65@mailxyz.com,male,white,34,Young Adults,Gauteng,@Kyle6,ICC Cricket World Cup 2011,2016-02-24 14:44:00.000000,Afternoon,16
+773530,Bernardo,Sytsma,Bernardo321@yahoo.com,male,black,46,Adults,Kwazulu Natal,@Bernardo32,SuperSport Blitz,2016-01-30 07:23:00.000000,Morning,16
+773540,Carter,Sieren,Carter33@mail.com,male,coloured,34,Young Adults,Western Cape,@Carter3,Supersport Live Events,2016-01-29 18:56:00.000000,Evening,12
+773545,Reagan,Biggers,Reagan483@mail.com,female,black,62,Seniors,Mpumalanga,@Reagan48,CNN,2016-02-05 13:08:00.000000,Afternoon,87
+773549,Irving,Caves,Irving53@mail.com,male,black,46,Adults,Free State,@Irving5,Africa Magic,2016-01-07 04:33:00.000000,Morning,75
+773552,Abel,Wigfall,Abel183@mail.com,male,black,44,Adults,Gauteng,@Abel18,Channel O,2016-03-19 12:42:00.000000,Afternoon,201
+773563,Wilton,Wigfall,Wilton412@gmail.com,male,indian_asian,37,Adults,Mpumalanga,@Wilton41,ICC Cricket World Cup 2011,2016-02-24 12:37:00.000000,Afternoon,158
+773569,Filiberto,Mccown,Filiberto45@mailxyz.com,male,None,42,Adults,Gauteng,@Filiberto4,Supersport Live Events,2016-03-12 12:44:00.000000,Afternoon,54
+773570,Cory,Tatham,Cory103@mail.com,male,None,43,Adults,Gauteng,@Cory10,ICC Cricket World Cup 2011,2016-03-15 16:44:00.000000,Afternoon,142
+773728,Dee,Luthy,Dee213@mail.com,male,None,36,Adults,Gauteng,@Dee21,Boomerang,2016-02-06 16:28:00.000000,Afternoon,23
+773978,None,None,Iva492@gmail.com,None,None,0,Kids,None,None,SuperSport Blitz,2016-03-28 22:41:00.000000,Evening,76
+776532,None,None,Williemae85@mailxyz.com,None,None,0,Kids,None,None,CNN,2016-03-29 04:51:00.000000,Morning,17
+776949,Royal,Styer,Royal172@gmail.com,male,white,59,Seniors,Gauteng,@Royal17,SuperSport Blitz,2016-02-07 18:25:00.000000,Evening,206
+777129,Hugh,Luthy,Hugh15@mailxyz.com,male,white,31,Young Adults,North West,@Hugh1,Trace TV,2016-01-10 19:09:00.000000,Evening,72
+777290,Cody,Caves,Cody123@mail.com,male,white,43,Adults,Gauteng,@Cody12,CNN,2016-01-31 18:58:00.000000,Evening,57
+777486,Lloyd,Styer,Lloyd75@mailxyz.com,male,black,35,Young Adults,Mpumalanga,@Lloyd7,Channel O,2016-01-27 06:38:00.000000,Morning,225
+777525,Hyman,Mina,Hyman85@mailxyz.com,male,indian_asian,34,Young Adults,Northern Cape,@Hyman8,Supersport Live Events,2016-03-03 14:46:00.000000,Afternoon,536
+777814,Carter,Langenfeld,Carter34@abcmail.com,male,black,45,Adults,Mpumalanga,@Carter3,Africa Magic,2016-01-13 20:58:00.000000,Evening,1391
+777845,Chas,Leicht,Chas352@gmail.com,male,black,18,Young Adults,Gauteng,@Chas35,Vuzu,2016-01-15 10:02:00.000000,Morning,28
+777875,Lane,Shkreli,Lane114@abcmail.com,male,black,36,Adults,Mpumalanga,@Lane11,Africa Magic,2016-02-06 12:44:00.000000,Afternoon,310
+777894,Mellie,Creager,Mellie503@mail.com,female,black,35,Young Adults,Gauteng,@Mellie50,Channel O,2016-01-02 07:41:00.000000,Morning,804
+777927,Wilburn,Slane,Wilburn303@mail.com,male,indian_asian,35,Young Adults,Gauteng,@Wilburn30,Supersport Live Events,2016-03-24 06:13:00.000000,Morning,274
+777934,Romeo,Holt,Romeo371@yahoo.com,male,black,34,Young Adults,Gauteng,@Romeo37,Cartoon Network,2016-02-23 18:03:00.000000,Evening,138
+777946,Eula,Mccown,Eula495@mailxyz.com,female,black,43,Adults,Gauteng,@Eula49,Africa Magic,2016-02-03 22:26:00.000000,Evening,1949
+777952,Randy,Luthy,Randy393@mail.com,male,black,32,Young Adults,Gauteng,@Randy39,SuperSport Blitz,2016-01-23 17:35:00.000000,Afternoon,1232
+777965,Lane,Zweifel,Lane112@gmail.com,male,coloured,44,Adults,Western Cape,@Lane11,E! Entertainment,2016-01-29 03:14:00.000000,Morning,12
+778000,Donald,Paradis,Donald225@mailxyz.com,male,coloured,53,Seniors,Western Cape,@Donald22,Trace TV,2016-03-29 15:21:00.000000,Afternoon,606
+778011,Robby,Bilyeu,Robby165@mailxyz.com,male,white,20,Young Adults,Gauteng,@Robby16,Cartoon Network,2016-01-22 11:59:00.000000,Morning,0
+778034,Emerson,Mina,Emerson243@mail.com,male,black,32,Young Adults,Gauteng,@Emerson24,CNN,2016-02-06 20:51:00.000000,Evening,219
+778036,Sharri,Tatham,Sharri183@mail.com,female,coloured,35,Young Adults,Western Cape,@Sharri18,Africa Magic,2016-01-19 23:20:00.000000,Night,3180
+778041,Hugh,Nicholls,Hugh14@abcmail.com,male,black,23,Young Adults,Gauteng,@Hugh1,Supersport Live Events,2016-02-01 19:37:00.000000,Evening,28
+778180,Earl,Borelli,Earl421@yahoo.com,male,coloured,34,Young Adults,Western Cape,@Earl42,SuperSport Blitz,2016-01-09 13:47:00.000000,Afternoon,286
+778192,Stephen,Creager,Stephen153@mail.com,male,white,49,Adults,Western Cape,@Stephen15,Channel O,2016-01-28 17:40:00.000000,Afternoon,81
+778248,Brendan,Creager,Brendan451@yahoo.com,male,None,34,Young Adults,Western Cape,@Brendan45,Boomerang,2016-02-06 13:50:00.000000,Afternoon,108
+778267,Carter,Pascarella,Carter35@mailxyz.com,male,black,31,Young Adults,Gauteng,@Carter3,Boomerang,2016-02-07 19:42:00.000000,Evening,21
+778272,Stefan,Styer,Stefan463@mail.com,male,coloured,29,Young Adults,Western Cape,@Stefan46,ICC Cricket World Cup 2011,2016-02-24 11:56:00.000000,Morning,148
+778332,Irving,Hoadley,Irving51@yahoo.com,male,black,39,Adults,Mpumalanga,@Irving5,SuperSport Blitz,2016-01-15 09:14:00.000000,Morning,36
+778561,Chas,Arrieta,Chas352@gmail.com,male,coloured,47,Adults,Western Cape,@Chas35,SuperSport Blitz,2016-02-09 11:35:00.000000,Morning,22
+778615,None,None,Seema484@abcmail.com,None,None,0,Kids,None,None,Channel O,2016-03-12 15:45:00.000000,Afternoon,225
+778797,Haywood,Borelli,Haywood93@mail.com,male,indian_asian,47,Adults,Kwazulu Natal,@Haywood9,Cartoon Network,2016-02-09 15:29:00.000000,Afternoon,62
+778959,Earl,Arrieta,Earl421@yahoo.com,male,black,20,Young Adults,Gauteng,@Earl42,DStv Events 1,2016-03-30 10:36:00.000000,Morning,155
+778983,Kip,Holt,Kip143@mail.com,male,black,20,Young Adults,Gauteng,@Kip14,Cartoon Network,2016-03-07 11:47:00.000000,Morning,124
+778984,Chas,Shkreli,Chas355@mailxyz.com,male,black,34,Young Adults,Gauteng,@Chas35,Channel O,2016-02-10 16:43:00.000000,Afternoon,903
+779244,Cory,Tatham,Cory101@yahoo.com,male,white,29,Young Adults,Gauteng,@Cory10,CNN,2016-02-09 16:55:00.000000,Afternoon,3
+779263,Mellie,Creager,Mellie231@yahoo.com,female,white,37,Adults,Gauteng,@Mellie23,Trace TV,2016-02-08 18:04:00.000000,Evening,6
+779369,Dee,Mastrangelo,Dee211@yahoo.com,male,black,36,Adults,Gauteng,@Dee21,CNN,2016-01-18 13:06:00.000000,Afternoon,799
+779373,Loyd,Beville,Loyd492@gmail.com,male,black,40,Adults,Limpopo,@Loyd49,CNN,2016-02-28 05:58:00.000000,Morning,387
+779395,Wilburn,Crotty,Wilburn302@gmail.com,male,coloured,23,Young Adults,Western Cape,@Wilburn30,Trace TV,2016-02-10 14:07:00.000000,Afternoon,1008
+779410,Yolonda,Pascarella,Yolonda131@yahoo.com,female,coloured,26,Young Adults,Gauteng,@Yolonda13,Trace TV,2016-02-03 12:04:00.000000,Afternoon,156
+779442,Alecia,Roquemore,Alecia415@mailxyz.com,female,black,31,Young Adults,Free State,@Alecia41,Channel O,2016-01-22 14:13:00.000000,Afternoon,603
+779471,Stefan,Biggers,Stefan464@abcmail.com,male,black,28,Young Adults,Eastern Cape,@Stefan46,Boomerang,2016-02-10 06:38:00.000000,Morning,669
+779485,Yong,Reisinger,Yong481@yahoo.com,male,black,25,Young Adults,North West,@Yong48,SuperSport Blitz,2016-01-29 11:29:00.000000,Morning,1060
+779486,Valentine,Zweifel,Valentine474@abcmail.com,male,black,36,Adults,Gauteng,@Valentine47,SuperSport Blitz,2016-01-09 03:28:00.000000,Morning,20
+779489,Wilton,Bilyeu,Wilton411@yahoo.com,male,black,37,Adults,Kwazulu Natal,@Wilton41,M-Net,2016-03-03 02:28:00.000000,Morning,167
+779500,Brendan,Hoadley,Brendan451@yahoo.com,male,white,33,Young Adults,Western Cape,@Brendan45,Boomerang,2016-02-02 15:55:00.000000,Afternoon,572
+779505,Bernardo,Pascarella,Bernardo322@gmail.com,male,black,22,Young Adults,Gauteng,@Bernardo32,Channel O,2016-02-06 18:53:00.000000,Evening,246
+779576,Eli,Curran,Eli293@mail.com,male,None,22,Young Adults,Kwazulu Natal,@Eli29,Supersport Live Events,2016-01-21 12:35:00.000000,Afternoon,28
+779588,Randy,Pascarella,Randy394@abcmail.com,male,white,32,Young Adults,Gauteng,@Randy39,Cartoon Network,2016-02-26 11:24:00.000000,Morning,74
+779592,Luanna,Hoadley,Luanna402@gmail.com,female,black,40,Adults,Gauteng,@Luanna40,Africa Magic,2016-02-08 04:52:00.000000,Morning,383
+779618,Stefan,Marek,Stefan462@gmail.com,male,black,40,Adults,North West,@Stefan46,Channel O,2016-01-25 18:21:00.000000,Evening,12
+779642,Lane,Beville,Lane115@mailxyz.com,male,black,42,Adults,Gauteng,@Lane11,Channel O,2016-01-22 16:02:00.000000,Afternoon,90
+779656,Blanca,Slane,Blanca403@mail.com,female,black,29,Young Adults,Gauteng,@Blanca40,Africa Magic,2016-02-08 18:28:00.000000,Evening,1949
+779704,Haywood,Pool,Haywood94@abcmail.com,male,black,34,Young Adults,Gauteng,@Haywood9,Channel O,2016-02-10 12:05:00.000000,Afternoon,1209
+779728,Art,Jacox,Art402@gmail.com,male,white,28,Young Adults,Gauteng,@Art40,SawSee,2016-02-27 11:27:00.000000,Morning,5
+779770,Valentine,Caves,Valentine474@abcmail.com,male,coloured,37,Adults,Gauteng,@Valentine47,Supersport Live Events,2016-01-16 11:57:00.000000,Morning,6
+779785,Donald,Shkreli,Donald225@mailxyz.com,male,black,37,Adults,Kwazulu Natal,@Donald22,Africa Magic,2016-03-09 17:06:00.000000,Afternoon,373
+779807,Bret,Pilot,Bret313@mail.com,male,white,25,Young Adults,Northern Cape,@Bret31,Cartoon Network,2016-02-09 06:18:00.000000,Morning,446
+779859,Michel,Arrieta,Michel202@gmail.com,male,black,20,Young Adults,Gauteng,@Michel20,Africa Magic,2016-01-15 08:12:00.000000,Morning,470
+779956,Cody,Mcculloch,Cody123@mail.com,male,coloured,32,Young Adults,Western Cape,@Cody12,Boomerang,2016-02-12 11:19:00.000000,Morning,78
+779969,Irving,Mcculloch,Irving51@yahoo.com,male,black,34,Young Adults,Mpumalanga,@Irving5,Africa Magic,2016-02-15 13:10:00.000000,Afternoon,26
+779974,Anette,Leicht,Anette315@mailxyz.com,female,None,30,Young Adults,Mpumalanga,@Anette31,E! Entertainment,2016-02-10 14:38:00.000000,Afternoon,168
+779975,Eula,Mccown,Eula301@yahoo.com,female,black,36,Adults,Western Cape,@Eula30,Trace TV,2016-03-05 23:00:00.000000,Night,15
+779980,Dee,Caves,Dee212@gmail.com,male,coloured,46,Adults,Eastern Cape,@Dee21,Africa Magic,2016-02-04 06:34:00.000000,Morning,49
+779989,Cody,Luthy,Cody124@abcmail.com,male,black,31,Young Adults,Gauteng,@Cody12,Trace TV,2016-01-21 18:28:00.000000,Evening,54
+779996,Lucas,Mcclaine,Lucas235@mailxyz.com,male,None,27,Young Adults,Northern Cape,@Lucas23,CNN,2016-02-08 17:33:00.000000,Afternoon,30
+779998,Kip,Pascarella,Kip141@yahoo.com,male,coloured,29,Young Adults,Northern Cape,@Kip14,ICC Cricket World Cup 2011,2016-03-03 09:24:00.000000,Morning,10
+780021,Wilton,Luthy,Wilton415@mailxyz.com,male,black,43,Adults,Mpumalanga,@Wilton41,Cartoon Network,2016-03-01 15:05:00.000000,Afternoon,15
+780037,None,None,Iva95@mailxyz.com,None,None,0,Kids,None,None,Channel O,2016-03-01 09:52:00.000000,Morning,108
+780045,Kip,Langenfeld,Kip142@gmail.com,male,white,29,Young Adults,Kwazulu Natal,@Kip14,Boomerang,2016-02-07 14:12:00.000000,Afternoon,13
+780046,Claud,Singer,Claud345@mailxyz.com,male,black,29,Young Adults,Gauteng,@Claud34,Africa Magic,2016-01-21 11:19:00.000000,Morning,5
+780056,Romeo,Creager,Romeo373@mail.com,male,coloured,30,Young Adults,Western Cape,@Romeo37,Trace TV,2016-01-11 13:55:00.000000,Afternoon,90
+780070,Brendan,Reisinger,Brendan451@yahoo.com,male,white,28,Young Adults,Gauteng,@Brendan45,Boomerang,2016-02-07 10:46:00.000000,Morning,81
+780108,Lucas,Deblois,Lucas231@yahoo.com,male,white,45,Adults,Kwazulu Natal,@Lucas23,CNN,2016-02-12 14:09:00.000000,Afternoon,12
+780110,Trudie,Restivo,Trudie292@gmail.com,female,black,25,Young Adults,Northern Cape,@Trudie29,Africa Magic,2016-02-09 16:41:00.000000,Afternoon,14
+780111,Irving,Holt,Irving53@mail.com,male,indian_asian,27,Young Adults,Gauteng,@Irving5,Trace TV,2016-01-07 21:25:00.000000,Evening,60
+780130,Hollis,Crotty,Hollis383@mail.com,male,black,44,Adults,Gauteng,@Hollis38,ICC Cricket World Cup 2011,2016-03-02 17:01:00.000000,Afternoon,1768
+780147,Raymundo,Reisinger,Raymundo435@mailxyz.com,male,black,23,Young Adults,Gauteng,@Raymundo43,Trace TV,2016-03-29 13:52:00.000000,Afternoon,453
+780191,Yong,Mastrangelo,Yong481@yahoo.com,male,coloured,26,Young Adults,Western Cape,@Yong48,Channel O,2016-03-28 12:52:00.000000,Afternoon,18
+780217,Adela,Vital,Adela132@gmail.com,female,indian_asian,33,Young Adults,Kwazulu Natal,@Adela13,Break in transmission,2016-03-01 19:26:00.000000,Evening,11
+780232,Lesli,Martello,Lesli93@mail.com,female,black,35,Young Adults,Mpumalanga,@Lesli9,M-Net,2016-01-11 14:28:00.000000,Afternoon,27
+780252,Lucas,Fudge,Lucas234@abcmail.com,male,black,44,Adults,Limpopo,@Lucas23,SuperSport Blitz,2016-01-08 12:14:00.000000,Afternoon,120
+780254,Romeo,Crotty,Romeo375@mailxyz.com,male,coloured,24,Young Adults,Western Cape,@Romeo37,Channel O,2016-02-09 18:24:00.000000,Evening,27
+780287,Efren,Leicht,Efren132@gmail.com,male,black,29,Young Adults,Limpopo,@Efren13,Africa Magic,2016-01-14 20:33:00.000000,Evening,5
+780291,Bret,Tancredi,Bret311@yahoo.com,male,black,41,Adults,Gauteng,@Bret31,Africa Magic,2016-02-09 08:48:00.000000,Morning,72
+780328,Cody,Nicholls,Cody122@gmail.com,male,black,32,Young Adults,Kwazulu Natal,@Cody12,Supersport Live Events,2016-01-16 20:10:00.000000,Evening,1086
+780334,Valentine,Leicht,Valentine472@gmail.com,male,black,26,Young Adults,Kwazulu Natal,@Valentine47,Channel O,2016-02-06 10:25:00.000000,Morning,195
+780346,Abel,Condie,Abel185@mailxyz.com,male,coloured,29,Young Adults,Western Cape,@Abel18,M-Net,2016-02-02 21:09:00.000000,Evening,294
+780355,Wilburn,Langenfeld,Wilburn304@abcmail.com,male,white,30,Young Adults,Gauteng,@Wilburn30,CNN,2016-03-08 04:35:00.000000,Morning,269
+780402,Briana,Caves,Briana503@mail.com,female,black,34,Young Adults,North West,@Briana50,Africa Magic,2016-02-08 15:42:00.000000,Afternoon,1867
+780457,Hyman,Shkreli,Hyman81@yahoo.com,male,coloured,33,Young Adults,Western Cape,@Hyman8,Sawsee,2016-02-08 15:11:00.000000,Afternoon,138
+780466,Lucas,Langenfeld,Lucas231@yahoo.com,male,black,50,Adults,Kwazulu Natal,@Lucas23,Break in transmission,2016-02-14 23:45:00.000000,Night,34
+780468,Stephen,Deblois,Stephen153@mail.com,male,black,31,Young Adults,Gauteng,@Stephen15,Trace TV,2016-03-27 10:27:00.000000,Morning,192
+780477,Abel,Mccollum,Abel181@yahoo.com,male,black,38,Adults,Gauteng,@Abel18,Channel O,2016-01-12 19:33:00.000000,Evening,66
+780483,Chas,Bilyeu,Chas354@abcmail.com,male,black,29,Young Adults,Mpumalanga,@Chas35,Boomerang,2016-01-18 11:29:00.000000,Morning,1035
+780497,Malika,Sieren,Malika404@abcmail.com,female,black,27,Young Adults,Mpumalanga,@Malika40,Trace TV,2016-01-24 15:39:00.000000,Afternoon,255
+780506,Brendan,Roquemore,Brendan451@yahoo.com,male,white,25,Young Adults,Western Cape,@Brendan45,Boomerang,2016-03-12 12:11:00.000000,Afternoon,17
+780546,Charlie,Crotty,Charlie364@abcmail.com,male,black,45,Adults,Gauteng,@Charlie36,CNN,2016-03-25 19:56:00.000000,Evening,1509
+780559,Loyd,Woolard,Loyd495@mailxyz.com,male,white,38,Adults,Western Cape,@Loyd49,Channel O,2016-03-21 18:17:00.000000,Evening,51
+780583,Raymundo,Curran,Raymundo433@mail.com,male,black,27,Young Adults,Gauteng,@Raymundo43,Trace TV,2016-03-06 00:26:00.000000,Morning,11571
+780610,Hyman,Paradis,Hyman83@mail.com,male,black,40,Adults,Gauteng,@Hyman8,Channel O,2016-02-09 18:35:00.000000,Evening,777
+780648,Reagan,Biggers,Reagan34@abcmail.com,female,black,46,Adults,Free State,@Reagan3,Trace TV,2016-01-22 14:37:00.000000,Afternoon,1788
+780650,Romeo,Bilyeu,Romeo372@gmail.com,male,black,41,Adults,Mpumalanga,@Romeo37,SuperSport Blitz,2016-01-07 14:31:00.000000,Afternoon,58
+780656,Wilton,Fudge,Wilton414@abcmail.com,male,black,45,Adults,Gauteng,@Wilton41,CNN,2016-02-15 16:25:00.000000,Afternoon,810
+780657,Hugh,Sieren,Hugh14@abcmail.com,male,black,48,Adults,Western Cape,@Hugh1,Africa Magic,2016-02-08 16:18:00.000000,Afternoon,28
+780695,Brendan,Woolard,Brendan453@mail.com,male,black,31,Young Adults,Gauteng,@Brendan45,Cartoon Network,2016-01-24 19:48:00.000000,Evening,3707
+780701,Efren,Pascarella,Efren132@gmail.com,male,black,45,Adults,Gauteng,@Efren13,CNN,2016-03-26 09:08:00.000000,Morning,359
+780710,Earline,Zweifel,Earline293@mail.com,female,black,24,Young Adults,Eastern Cape,@Earline29,CNN,2016-01-03 21:53:00.000000,Evening,18
+780818,Kip,Deblois,Kip145@mailxyz.com,male,white,22,Young Adults,Mpumalanga,@Kip14,ICC Cricket World Cup 2011,2016-03-12 12:13:00.000000,Afternoon,1912
+780819,Valentine,Pascarella,Valentine472@gmail.com,male,black,38,Adults,Limpopo,@Valentine47,Africa Magic,2016-02-18 22:35:00.000000,Evening,4765
+780823,Claud,Vital,Claud342@gmail.com,male,white,45,Adults,Western Cape,@Claud34,Supersport Live Events,2016-03-25 06:01:00.000000,Morning,60
+785456,Winona,Wigfall,Winona74@abcmail.com,female,white,41,Adults,Gauteng,@Winona7,E! Entertainment,2016-02-11 10:36:00.000000,Morning,108
+785592,Romeo,Mosser,Romeo373@mail.com,male,white,19,Young Adults,Limpopo,@Romeo37,Supersport Live Events,2016-03-14 07:50:00.000000,Morning,24
+785965,Earl,Sieren,Earl422@gmail.com,male,None,34,Young Adults,Western Cape,@Earl42,ICC Cricket World Cup 2011,2016-02-24 09:13:00.000000,Morning,150
+785968,Donald,Woolard,Donald222@gmail.com,male,white,39,Adults,Gauteng,@Donald22,SuperSport Blitz,2016-02-11 04:47:00.000000,Morning,106
+786055,Williemae,Holt,Williemae484@abcmail.com,female,white,25,Young Adults,Gauteng,@Williemae48,DStv Events 1,2016-01-18 17:49:00.000000,Afternoon,145
+786099,Bret,Marek,Bret312@gmail.com,male,black,30,Young Adults,Gauteng,@Bret31,E! Entertainment,2016-02-09 14:10:00.000000,Afternoon,48
+786181,Art,Wigfall,Art405@mailxyz.com,male,black,27,Young Adults,Gauteng,@Art40,SuperSport Blitz,2016-03-05 19:14:00.000000,Evening,168
+786206,Valentine,Lavoie,Valentine473@mail.com,male,indian_asian,15,Teens,Gauteng,@Valentine47,Cartoon Network,2016-01-29 15:27:00.000000,Afternoon,631
+786241,Valentine,Paradis,Valentine475@mailxyz.com,male,black,48,Adults,Gauteng,@Valentine47,Channel O,2016-02-11 19:47:00.000000,Evening,27
+786270,Emerson,Pilot,Emerson242@gmail.com,male,black,20,Young Adults,Limpopo,@Emerson24,Boomerang,2016-02-10 04:20:00.000000,Morning,5
+786343,Shane,Pool,Shane25@mailxyz.com,male,indian_asian,37,Adults,Kwazulu Natal,@Shane2,Africa Magic,2016-01-12 17:16:00.000000,Afternoon,10
+786446,Anette,Leicht,Anette14@abcmail.com,female,None,56,Seniors,Free State,@Anette1,Africa Magic,2016-02-01 17:38:00.000000,Afternoon,167
+786452,Earl,Sytsma,Earl422@gmail.com,male,white,28,Young Adults,Gauteng,@Earl42,Boomerang,2016-02-28 23:09:00.000000,Night,1251
+786580,Garry,Martello,Garry283@mail.com,male,black,24,Young Adults,Gauteng,@Garry28,Trace TV,2016-01-21 20:59:00.000000,Evening,18
+786585,Dion,Fudge,Dion335@mailxyz.com,male,white,26,Young Adults,Limpopo,@Dion33,Cartoon Network,2016-01-23 16:17:00.000000,Afternoon,13
+786607,Kyle,Lavoie,Kyle63@mail.com,male,coloured,45,Adults,Western Cape,@Kyle6,Supersport Live Events,2016-02-11 17:11:00.000000,Afternoon,174
+786693,Stephen,Paradis,Stephen151@yahoo.com,male,black,41,Adults,Kwazulu Natal,@Stephen15,Channel O,2016-01-11 17:20:00.000000,Afternoon,540
+786741,Iva,Styer,Iva271@yahoo.com,female,black,39,Adults,Free State,@Iva27,SawSee,2016-02-12 18:19:00.000000,Evening,28
+786757,Eli,Mcclaine,Eli292@gmail.com,male,black,35,Young Adults,Northern Cape,@Eli29,Africa Magic,2016-01-03 10:13:00.000000,Morning,105
+786800,Claud,Sytsma,Claud344@abcmail.com,male,black,23,Young Adults,Mpumalanga,@Claud34,Cartoon Network,2016-01-23 14:15:00.000000,Afternoon,2
+786821,Haywood,Mcclaine,Haywood95@mailxyz.com,male,black,37,Adults,Mpumalanga,@Haywood9,Trace TV,2016-01-16 21:21:00.000000,Evening,366
+786863,Malika,Sieren,Malika32@gmail.com,female,black,30,Young Adults,Northern Cape,@Malika3,Africa Magic,2016-03-30 18:26:00.000000,Evening,12
+786864,Chas,Roquemore,Chas352@gmail.com,male,black,25,Young Adults,Mpumalanga,@Chas35,Africa Magic,2016-03-13 20:22:00.000000,Evening,43
+786885,Valentine,Singer,Valentine475@mailxyz.com,male,white,56,Seniors,Gauteng,@Valentine47,Channel O,2016-02-02 17:39:00.000000,Afternoon,81
+786910,Stephen,Nicholls,Stephen153@mail.com,male,black,33,Young Adults,Eastern Cape,@Stephen15,Channel O,2016-01-08 20:47:00.000000,Evening,18
+786931,Stefan,Sytsma,Stefan461@yahoo.com,male,black,21,Young Adults,Kwazulu Natal,@Stefan46,Cartoon Network,2016-02-01 06:08:00.000000,Morning,52
+787028,Michel,Creager,Michel202@gmail.com,male,coloured,44,Adults,Western Cape,@Michel20,ICC Cricket World Cup 2011,2016-03-29 09:45:00.000000,Morning,196
+787054,Lucas,Luthy,Lucas235@mailxyz.com,male,white,19,Young Adults,Mpumalanga,@Lucas23,Boomerang,2016-01-23 13:13:00.000000,Afternoon,293
+787128,Yong,Biggers,Yong482@gmail.com,male,black,100,Seniors,Gauteng,@Yong48,SuperSport Blitz,2016-03-06 12:41:00.000000,Afternoon,10
+787182,Earl,Reisinger,Earl424@abcmail.com,male,white,46,Adults,Gauteng,@Earl42,SuperSport Blitz,2016-02-10 20:23:00.000000,Evening,96
+787212,Royal,Creager,Royal171@yahoo.com,male,black,36,Adults,Gauteng,@Royal17,Cartoon Network,2016-02-09 10:23:00.000000,Morning,11
+787256,Lane,Gettys,Lane115@mailxyz.com,male,coloured,27,Young Adults,Gauteng,@Lane11,Africa Magic,2016-01-23 17:49:00.000000,Afternoon,20
+787285,Chas,Condie,Chas354@abcmail.com,male,black,44,Adults,Gauteng,@Chas35,Cartoon Network,2016-01-05 05:27:00.000000,Morning,16
+787343,Valentine,Caves,Valentine474@abcmail.com,male,white,41,Adults,Kwazulu Natal,@Valentine47,SawSee,2016-01-12 17:20:00.000000,Afternoon,29
+787357,Lillian,Borelli,Lillian442@gmail.com,female,black,34,Young Adults,Mpumalanga,@Lillian44,Africa Magic,2016-01-19 19:06:00.000000,Evening,16
+787359,Emerson,Roquemore,Emerson245@mailxyz.com,male,black,28,Young Adults,Gauteng,@Emerson24,Supersport Live Events,2016-01-15 16:14:00.000000,Afternoon,480
+787422,Shane,Gettys,Shane22@gmail.com,male,white,24,Young Adults,Mpumalanga,@Shane2,Cartoon Network,2016-01-02 16:29:00.000000,Afternoon,311
+787444,Hollis,Marek,Hollis381@yahoo.com,male,white,47,Adults,Gauteng,@Hollis38,Supersport Live Events,2016-02-18 07:34:00.000000,Morning,1792
+787445,Haywood,Tancredi,Haywood95@mailxyz.com,male,coloured,28,Young Adults,Gauteng,@Haywood9,Channel O,2016-01-09 14:23:00.000000,Afternoon,27
+787533,Cody,Sieren,Cody124@abcmail.com,male,black,48,Adults,Kwazulu Natal,@Cody12,ICC Cricket World Cup 2011,2016-03-29 13:40:00.000000,Afternoon,10050
+787618,Hyman,Roquemore,Hyman82@gmail.com,male,white,60,Seniors,Gauteng,@Hyman8,CNN,2016-01-14 17:19:00.000000,Afternoon,118
+787649,Loyd,Mccown,Loyd492@gmail.com,male,black,38,Adults,Kwazulu Natal,@Loyd49,Africa Magic,2016-02-21 19:36:00.000000,Evening,4
+787656,Garry,Sytsma,Garry284@abcmail.com,male,black,26,Young Adults,Gauteng,@Garry28,Channel O,2016-02-15 08:40:00.000000,Morning,675
+787730,Dion,Hier,Dion331@yahoo.com,male,white,32,Young Adults,Mpumalanga,@Dion33,Cartoon Network,2016-03-21 19:45:00.000000,Evening,267
+787846,Dia,Arrieta,Dia85@mailxyz.com,female,coloured,32,Young Adults,Western Cape,@Dia8,Channel O,2016-03-25 21:50:00.000000,Evening,318
+787954,None,None,Irmgard344@abcmail.com,None,None,0,Kids,None,None,SawSee,2016-03-10 22:17:00.000000,Evening,348
+788008,Yong,Paradis,Yong484@abcmail.com,male,indian_asian,17,Teens,Kwazulu Natal,@Yong48,Trace TV,2016-02-13 13:54:00.000000,Afternoon,33
+788215,Bernardo,Hoadley,Bernardo324@abcmail.com,male,indian_asian,33,Young Adults,Limpopo,@Bernardo32,ICC Cricket World Cup 2011,2016-03-30 17:30:00.000000,Afternoon,48
+788281,Valentine,Tatham,Valentine471@yahoo.com,male,None,25,Young Adults,Gauteng,@Valentine47,SuperSport Blitz,2016-02-13 17:18:00.000000,Afternoon,1191
+788466,Donald,Paradis,Donald224@abcmail.com,male,coloured,26,Young Adults,Western Cape,@Donald22,SuperSport Blitz,2016-02-13 08:01:00.000000,Morning,885
+788537,Hugh,Mccown,Hugh11@yahoo.com,male,black,32,Young Adults,Kwazulu Natal,@Hugh1,SuperSport Blitz,2016-03-09 12:36:00.000000,Afternoon,8
+788562,Lane,Singer,Lane115@mailxyz.com,male,None,41,Adults,Gauteng,@Lane11,Channel O,2016-03-31 10:43:00.000000,Morning,189
+788616,Winona,Wigfall,Winona482@gmail.com,female,black,44,Adults,Gauteng,@Winona48,SuperSport Blitz,2016-01-27 12:03:00.000000,Afternoon,6
+788649,Randy,Styer,Randy394@abcmail.com,male,white,39,Adults,Gauteng,@Randy39,SuperSport Blitz,2016-01-15 16:12:00.000000,Afternoon,158
+788672,Eli,Pilot,Eli294@abcmail.com,male,black,39,Adults,Gauteng,@Eli29,Africa Magic,2016-01-19 15:29:00.000000,Afternoon,24
+788725,Jacinto,Reisinger,Jacinto252@gmail.com,male,black,32,Young Adults,Free State,@Jacinto25,Trace TV,2016-02-12 13:38:00.000000,Afternoon,0
+788727,Stefan,Bilyeu,Stefan463@mail.com,male,coloured,41,Adults,Western Cape,@Stefan46,Supersport Live Events,2016-01-23 10:07:00.000000,Morning,0
+788728,Dion,Paradis,Dion333@mail.com,male,black,35,Young Adults,Gauteng,@Dion33,ICC Cricket World Cup 2011,2016-03-15 08:58:00.000000,Morning,18
+788744,Abel,Jacox,Abel183@mail.com,male,coloured,23,Young Adults,Western Cape,@Abel18,Supersport Live Events,2016-01-18 09:35:00.000000,Morning,52
+788751,Cody,Jacox,Cody124@abcmail.com,male,coloured,26,Young Adults,Western Cape,@Cody12,SuperSport Blitz,2016-02-01 21:35:00.000000,Evening,260
+788787,Jacinto,Deblois,Jacinto253@mail.com,male,white,19,Young Adults,Northern Cape,@Jacinto25,CNN,2016-03-07 20:46:00.000000,Evening,28
+788788,Len,Styer,Len442@gmail.com,male,black,40,Adults,Kwazulu Natal,@Len44,Africa Magic,2016-02-03 17:41:00.000000,Afternoon,248
+788792,Felipa,Mcculloch,Felipa175@mailxyz.com,female,black,36,Adults,Gauteng,@Felipa17,Africa Magic,2016-02-28 12:22:00.000000,Afternoon,2
+788794,Chas,Hier,Chas354@abcmail.com,male,black,24,Young Adults,Limpopo,@Chas35,SuperSport Live Events,2016-02-13 21:02:00.000000,Evening,40
+788827,Lane,Fudge,Lane112@gmail.com,male,black,28,Young Adults,Western Cape,@Lane11,Channel O,2016-03-10 14:27:00.000000,Afternoon,81
+788844,Hugh,Leicht,Hugh13@mail.com,male,black,28,Young Adults,Gauteng,@Hugh1,Channel O,2016-02-11 23:02:00.000000,Night,396
+788854,Jacinto,Lavoie,Jacinto254@abcmail.com,male,coloured,28,Young Adults,Limpopo,@Jacinto25,Channel O,2016-02-03 20:26:00.000000,Evening,93
+788856,Valentine,Fudge,Valentine471@yahoo.com,male,None,45,Adults,Western Cape,@Valentine47,Cartoon Network,2016-01-10 19:55:00.000000,Evening,1234
+788857,Raymundo,Vital,Raymundo434@abcmail.com,male,white,47,Adults,Western Cape,@Raymundo43,Channel O,2016-02-13 10:20:00.000000,Morning,33
+788858,Charlie,Vital,Charlie362@gmail.com,male,black,30,Young Adults,Western Cape,@Charlie36,SuperSport Blitz,2016-02-09 16:05:00.000000,Afternoon,1140
+788877,Katharina,Condie,Katharina414@abcmail.com,female,coloured,26,Young Adults,Western Cape,@Katharina41,Africa Magic,2016-01-08 06:58:00.000000,Morning,68
+788891,Markus,Wigfall,Markus192@gmail.com,male,coloured,28,Young Adults,Kwazulu Natal,@Markus19,Channel O,2016-03-10 23:58:00.000000,Night,93
+788893,Stacy,Woolard,Stacy271@yahoo.com,male,black,33,Young Adults,Mpumalanga,@Stacy27,Trace TV,2016-02-09 04:49:00.000000,Morning,3786
+788911,Randy,Reisinger,Randy395@mailxyz.com,male,black,25,Young Adults,Gauteng,@Randy39,Trace TV,2016-02-12 21:09:00.000000,Evening,57
+788922,Cory,Fudge,Cory101@yahoo.com,male,coloured,52,Seniors,Western Cape,@Cory10,ICC Cricket World Cup 2011,2016-02-27 16:06:00.000000,Afternoon,112
+788930,Lane,Sieren,Lane114@abcmail.com,male,white,31,Young Adults,North West,@Lane11,DStv Events 1,2016-02-07 02:03:00.000000,Morning,240
+788936,Raymundo,Gettys,Raymundo435@mailxyz.com,male,black,22,Young Adults,Limpopo,@Raymundo43,Cartoon Network,2016-03-20 13:24:00.000000,Afternoon,116
+788941,Kyle,Nicholls,Kyle62@gmail.com,male,white,35,Young Adults,Western Cape,@Kyle6,Supersport Live Events,2016-02-19 17:11:00.000000,Afternoon,46
+788942,Royal,Sytsma,Royal171@yahoo.com,male,coloured,32,Young Adults,Western Cape,@Royal17,Boomerang,2016-02-11 04:31:00.000000,Morning,33
+788945,Dion,Marek,Dion335@mailxyz.com,male,black,33,Young Adults,Free State,@Dion33,Africa Magic,2016-02-14 01:31:00.000000,Morning,61
+788947,Lloyd,Mccown,Lloyd75@mailxyz.com,male,black,39,Adults,Kwazulu Natal,@Lloyd7,SuperSport Blitz,2016-02-10 21:11:00.000000,Evening,222
+788949,Bernardo,Reisinger,Bernardo321@yahoo.com,male,white,29,Young Adults,Gauteng,@Bernardo32,E! Entertainment,2016-02-03 19:34:00.000000,Evening,942
+788951,Loyd,Mccown,Loyd494@abcmail.com,male,black,37,Adults,Kwazulu Natal,@Loyd49,Cartoon Network,2016-02-07 12:52:00.000000,Afternoon,454
+788954,Cory,Lavoie,Cory103@mail.com,male,black,41,Adults,Gauteng,@Cory10,DStv Events 1,2016-01-19 17:20:00.000000,Afternoon,100
+788958,Art,Luthy,Art402@gmail.com,male,white,38,Adults,Kwazulu Natal,@Art40,Cartoon Network,2016-01-25 02:59:00.000000,Morning,2175
+788959,Cody,Pascarella,Cody125@mailxyz.com,male,None,35,Young Adults,Gauteng,@Cody12,ICC Cricket World Cup 2011,2016-03-02 09:49:00.000000,Morning,528
+788961,Kyle,Mccown,Kyle63@mail.com,male,black,62,Seniors,North West,@Kyle6,Trace TV,2016-03-20 12:37:00.000000,Afternoon,1638
+788969,Markus,Vital,Markus194@abcmail.com,male,black,42,Adults,North West,@Markus19,Cartoon Network,2016-03-19 04:58:00.000000,Morning,142
+788978,Irving,Condie,Irving52@gmail.com,male,other,37,Adults,Western Cape,@Irving5,SuperSport Live Events,2016-02-13 18:51:00.000000,Evening,0
+788988,Luann,Mina,Luann405@mailxyz.com,female,black,44,Adults,Gauteng,@Luann40,Trace TV,2016-01-23 17:22:00.000000,Afternoon,18
+788990,Garry,Mccollum,Garry284@abcmail.com,male,black,27,Young Adults,Mpumalanga,@Garry28,Channel O,2016-02-08 21:55:00.000000,Evening,63
+788992,Robby,Pascarella,Robby162@gmail.com,male,black,29,Young Adults,Gauteng,@Robby16,Channel O,2016-01-11 08:42:00.000000,Morning,201
+788994,Filiberto,Mosser,Filiberto44@abcmail.com,male,None,44,Adults,Western Cape,@Filiberto4,ICC Cricket World Cup 2011,2016-02-24 09:34:00.000000,Morning,266
+788997,Charlie,Mcculloch,Charlie364@abcmail.com,male,black,30,Young Adults,Gauteng,@Charlie36,Trace TV,2016-02-09 19:09:00.000000,Evening,159
+788998,Cody,Pilot,Cody122@gmail.com,male,white,41,Adults,Gauteng,@Cody12,ICC Cricket World Cup 2011,2016-02-19 11:44:00.000000,Morning,1192
